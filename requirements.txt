@@ -1,0 +1,5 @@
+python-dotenv
+openai
+pandas
+rpy2
+pyreadr

@@ -1,12 +1,41 @@
 # Mise en place d'une pipeline de test pour comparer les résultats
 
+## Introduction
+
+Dans ce répo je vais mettre en place une pipeline de test pour comparer les résultats de assistant api et du finetuning d'un modèle d'openai.
+
 Pour que cette pipline de test sois efficace elle devra possèder plusieurs pool de questions. Chaque pool de questions aura un différent nombre de variables. Voici les pools de questions :
 
 - Pool 1 : 1 faculté, 1 année
 - Pool 2 : 2 faculté, 1 année
 - Pool 3 : 2 faculté, n années.
 
-## Pool 1
+## Préréquis
+
+- Python 3.8
+- environnement virtuel python
+- pip
+- git
+- un compte openai
+- un fichier .env avec
+  - OPENAI_API_KEY
+  - SYSTEM_MESSAGE
+
+## Installation
+
+1. Cloner le répo
+2. Créer un environnement virtuel python
+   1. faire `python3 -m venv venv` pour créer l'environnement virtuel
+   2. activer l'environnement virtuel avec `source venv/bin/activate`
+3. Installer les dépendances avec `pip install -r requirements.txt`
+
+## Utilisation
+
+1. Activer l'environnement virtuel avec `source venv/bin/activate`
+
+## Pool de questions
+
+### Pool 1
 
 Pour le pool 1 voici un exemple de questions :
 
@@ -25,7 +54,7 @@ Pour le pool 1 voici un exemple de questions :
 }
 ```
 
-## Pool 2
+### Pool 2
 
 Pour le pool 2 voici un exemple de questions :
 
@@ -43,7 +72,7 @@ Pour le pool 2 voici un exemple de questions :
 }
 ```
 
-## Pool 3
+### Pool 3
 
 Pour le pool 3 voici un exemple de questions :
 
