@@ -2,6 +2,7 @@ import json
 import os
 import argparse
 from dotenv import load_dotenv
+import random
 
 parser = argparse.ArgumentParser(description="Create JSON file for fine-tuning OpenAI model.")
 parser.add_argument('--training_data', type=str, default='../data/finetuning/training/pool_data.jsonl', help='Path to training data')
@@ -57,9 +58,11 @@ if __name__ == "__main__":
     prepared_data = []
 
     for data in training_data:
+        random.shuffle(data)
         prepared_data.append(create_training_data(data, system_message))
 
     for i in range(len(prepared_data)):
+        random.shuffle(prepared_data[i])
         path_training = args.training_data[:-6] + str(i) + "-training.jsonl"
         path_validating = args.validating_data[:-6] + str(i) + "-validating.jsonl"
         print("Writing " + path_training + "...")
