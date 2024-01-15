@@ -8,7 +8,7 @@ Pour que cette pipline de test sois efficace elle devra possèder plusieurs pool
 
 - Pool 1 : 1 faculté, 1 année
 - Pool 2 : 2 faculté, 1 année
-- Pool 3 : 2 faculté, n années.
+- Pool 3 : 2 faculté, n années
 
 ## Préréquis
 
