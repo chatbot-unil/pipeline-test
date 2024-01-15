@@ -68,4 +68,3 @@ if __name__ == "__main__":
         validating_data = prepared_data[i][int(len(prepared_data[i]) * 0.8):]
         write_jsonl_data(training_data, path_training)
         write_jsonl_data(validating_data, path_validating)
-
