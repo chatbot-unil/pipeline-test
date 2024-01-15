@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"question": "Comparez le nombre total d'étudiants inscrits dans les facultés de {faculté 1} et {faculté 2} en {année}.",
+			"answer": {
+				"value" : ["{nombre}"]
+			}
+		}
+	]
+]

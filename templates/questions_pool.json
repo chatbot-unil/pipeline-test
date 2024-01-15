@@ -1,0 +1,28 @@
+[
+	{
+		"name":"pool1",
+		"description":"pool de questions contenant les des questons portant sur une seule faculté et une seule année",
+		"questions": [
+			"Combien d'étudiants {sexe} étaient inscrits à la faculté de {faculté} en {année} ?",
+			"Combien d'étudiant suisse il y avait à la faculté de {faculté} en {année} ?",
+			"Combien d'étudiants internationaux il y avait à la faculté de {faculté} en {année} ?",
+			"Combien d'étudiants étaient inscrits à la faculté de {faculté} en {année} ?",
+			"Quelle était la proportion d'étudiants internationaux à la faculté de {faculté} en {année} ?",
+			"Quelle était la proportion d'étudiants suisses à la faculté de {faculté} en {année} ?"
+		]
+	},
+	{
+		"name" :"pool2",
+		"description": "pool de questions contenant les des questons portant sur plusieurs facultés et une seule année",
+		"questions": [
+			"Comparez le nombre total d'étudiants inscrits dans les facultés de {faculté 1} et {faculté 2} en {année}."
+		]
+	},
+	{
+		"name" :"pool3",
+		"description": "pool de questions contenant les des questons portant sur une seule faculté et plusieurs années",
+		"questions": [
+			"Quel est la différence du nombre d'étudiants inscrits à la faculté de {faculté} entre {année 1} et {année 2} ?"
+		]
+	}
+]

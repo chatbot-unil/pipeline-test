@@ -1,0 +1,50 @@
+[
+	[
+		{
+			"question": "Combien d'étudiants {sexe} étaient inscrits à la faculté de {faculté} en {année} ?",
+			"answer": {
+				"value": "{nombre}"
+			}
+		}
+	],
+	[
+		{
+			"question": "Combien d'étudiant suisse il y avait à la faculté de {faculté} en {année} ?",
+			"answer": {
+				"value": "{nombre}"
+			}
+		}
+	],
+	[
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de {faculté} en {année} ?",
+			"answer": {
+				"value": "{nombre}"
+			}
+		}
+	],
+	[
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de {faculté} en {année} ?",
+			"answer": {
+				"value": "{nombre}"
+			}
+		}
+	],
+	[
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de {faculté} en {année} ?",
+			"answer": {
+				"value": "{nombre}"
+			}
+		}
+	],
+	[
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de {faculté} en {année} ?",
+			"answer": {
+				"value": "{nombre}"
+			}
+		}
+	]
+]

@@ -1,0 +1,4671 @@
+
+[
+	[
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FCUE en 2013 ?",
+			"answer": {
+				"value": 51
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FCUE en 2013 ?",
+			"answer": {
+				"value": 60
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FCUE en 2013 ?",
+			"answer": {
+				"value": 111
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FCUE en 2014 ?",
+			"answer": {
+				"value": 137
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FCUE en 2014 ?",
+			"answer": {
+				"value": 175
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FCUE en 2014 ?",
+			"answer": {
+				"value": 312
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FCUE en 2015 ?",
+			"answer": {
+				"value": 117
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FCUE en 2015 ?",
+			"answer": {
+				"value": 179
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FCUE en 2015 ?",
+			"answer": {
+				"value": 296
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FCUE en 2016 ?",
+			"answer": {
+				"value": 110
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FCUE en 2016 ?",
+			"answer": {
+				"value": 175
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FCUE en 2016 ?",
+			"answer": {
+				"value": 285
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FCUE en 2017 ?",
+			"answer": {
+				"value": 125
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FCUE en 2017 ?",
+			"answer": {
+				"value": 169
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FCUE en 2017 ?",
+			"answer": {
+				"value": 294
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FCUE en 2018 ?",
+			"answer": {
+				"value": 179
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FCUE en 2018 ?",
+			"answer": {
+				"value": 143
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FCUE en 2018 ?",
+			"answer": {
+				"value": 322
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FCUE en 2019 ?",
+			"answer": {
+				"value": 302
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FCUE en 2019 ?",
+			"answer": {
+				"value": 156
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FCUE en 2019 ?",
+			"answer": {
+				"value": 458
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FCUE en 2020 ?",
+			"answer": {
+				"value": 362
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FCUE en 2020 ?",
+			"answer": {
+				"value": 162
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FCUE en 2020 ?",
+			"answer": {
+				"value": 524
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FCUE en 2021 ?",
+			"answer": {
+				"value": 377
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FCUE en 2021 ?",
+			"answer": {
+				"value": 158
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FCUE en 2021 ?",
+			"answer": {
+				"value": 535
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FBM en 2011 ?",
+			"answer": {
+				"value": 1519
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FBM en 2011 ?",
+			"answer": {
+				"value": 1085
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FBM en 2011 ?",
+			"answer": {
+				"value": 2604
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FBM en 2012 ?",
+			"answer": {
+				"value": 1555
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FBM en 2012 ?",
+			"answer": {
+				"value": 1170
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FBM en 2012 ?",
+			"answer": {
+				"value": 2725
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FBM en 2013 ?",
+			"answer": {
+				"value": 1645
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FBM en 2013 ?",
+			"answer": {
+				"value": 1209
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FBM en 2013 ?",
+			"answer": {
+				"value": 2854
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FBM en 2014 ?",
+			"answer": {
+				"value": 1699
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FBM en 2014 ?",
+			"answer": {
+				"value": 1270
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FBM en 2014 ?",
+			"answer": {
+				"value": 2969
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FBM en 2015 ?",
+			"answer": {
+				"value": 1735
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FBM en 2015 ?",
+			"answer": {
+				"value": 1288
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FBM en 2015 ?",
+			"answer": {
+				"value": 3023
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FBM en 2016 ?",
+			"answer": {
+				"value": 1911
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FBM en 2016 ?",
+			"answer": {
+				"value": 1309
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FBM en 2016 ?",
+			"answer": {
+				"value": 3220
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FBM en 2017 ?",
+			"answer": {
+				"value": 1993
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FBM en 2017 ?",
+			"answer": {
+				"value": 1375
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FBM en 2017 ?",
+			"answer": {
+				"value": 3368
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FBM en 2018 ?",
+			"answer": {
+				"value": 2112
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FBM en 2018 ?",
+			"answer": {
+				"value": 1369
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FBM en 2018 ?",
+			"answer": {
+				"value": 3481
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FBM en 2019 ?",
+			"answer": {
+				"value": 2250
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FBM en 2019 ?",
+			"answer": {
+				"value": 1438
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FBM en 2019 ?",
+			"answer": {
+				"value": 3688
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FBM en 2020 ?",
+			"answer": {
+				"value": 2477
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FBM en 2020 ?",
+			"answer": {
+				"value": 1506
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FBM en 2020 ?",
+			"answer": {
+				"value": 3983
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FBM en 2021 ?",
+			"answer": {
+				"value": 2578
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FBM en 2021 ?",
+			"answer": {
+				"value": 1530
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FBM en 2021 ?",
+			"answer": {
+				"value": 4108
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de HEC en 2011 ?",
+			"answer": {
+				"value": 828
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de HEC en 2011 ?",
+			"answer": {
+				"value": 1493
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de HEC en 2011 ?",
+			"answer": {
+				"value": 2321
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de HEC en 2012 ?",
+			"answer": {
+				"value": 914
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de HEC en 2012 ?",
+			"answer": {
+				"value": 1673
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de HEC en 2012 ?",
+			"answer": {
+				"value": 2587
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de HEC en 2013 ?",
+			"answer": {
+				"value": 997
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de HEC en 2013 ?",
+			"answer": {
+				"value": 1741
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de HEC en 2013 ?",
+			"answer": {
+				"value": 2738
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de HEC en 2014 ?",
+			"answer": {
+				"value": 1111
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de HEC en 2014 ?",
+			"answer": {
+				"value": 1800
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de HEC en 2014 ?",
+			"answer": {
+				"value": 2911
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de HEC en 2015 ?",
+			"answer": {
+				"value": 1074
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de HEC en 2015 ?",
+			"answer": {
+				"value": 1799
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de HEC en 2015 ?",
+			"answer": {
+				"value": 2873
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de HEC en 2016 ?",
+			"answer": {
+				"value": 1032
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de HEC en 2016 ?",
+			"answer": {
+				"value": 1867
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de HEC en 2016 ?",
+			"answer": {
+				"value": 2899
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de HEC en 2017 ?",
+			"answer": {
+				"value": 1057
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de HEC en 2017 ?",
+			"answer": {
+				"value": 1950
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de HEC en 2017 ?",
+			"answer": {
+				"value": 3007
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de HEC en 2018 ?",
+			"answer": {
+				"value": 1077
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de HEC en 2018 ?",
+			"answer": {
+				"value": 2010
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de HEC en 2018 ?",
+			"answer": {
+				"value": 3087
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de HEC en 2019 ?",
+			"answer": {
+				"value": 1082
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de HEC en 2019 ?",
+			"answer": {
+				"value": 2022
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de HEC en 2019 ?",
+			"answer": {
+				"value": 3104
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de HEC en 2020 ?",
+			"answer": {
+				"value": 1201
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de HEC en 2020 ?",
+			"answer": {
+				"value": 2105
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de HEC en 2020 ?",
+			"answer": {
+				"value": 3306
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de HEC en 2021 ?",
+			"answer": {
+				"value": 1209
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de HEC en 2021 ?",
+			"answer": {
+				"value": 2094
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de HEC en 2021 ?",
+			"answer": {
+				"value": 3303
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FDCA en 2011 ?",
+			"answer": {
+				"value": 993
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FDCA en 2011 ?",
+			"answer": {
+				"value": 645
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FDCA en 2011 ?",
+			"answer": {
+				"value": 1638
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FDCA en 2012 ?",
+			"answer": {
+				"value": 1034
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FDCA en 2012 ?",
+			"answer": {
+				"value": 677
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FDCA en 2012 ?",
+			"answer": {
+				"value": 1711
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FDCA en 2013 ?",
+			"answer": {
+				"value": 1063
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FDCA en 2013 ?",
+			"answer": {
+				"value": 710
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FDCA en 2013 ?",
+			"answer": {
+				"value": 1773
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FDCA en 2014 ?",
+			"answer": {
+				"value": 1125
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FDCA en 2014 ?",
+			"answer": {
+				"value": 772
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FDCA en 2014 ?",
+			"answer": {
+				"value": 1897
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FDCA en 2015 ?",
+			"answer": {
+				"value": 1139
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FDCA en 2015 ?",
+			"answer": {
+				"value": 780
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FDCA en 2015 ?",
+			"answer": {
+				"value": 1919
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FDCA en 2016 ?",
+			"answer": {
+				"value": 1201
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FDCA en 2016 ?",
+			"answer": {
+				"value": 808
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FDCA en 2016 ?",
+			"answer": {
+				"value": 2009
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FDCA en 2017 ?",
+			"answer": {
+				"value": 1204
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FDCA en 2017 ?",
+			"answer": {
+				"value": 789
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FDCA en 2017 ?",
+			"answer": {
+				"value": 1993
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FDCA en 2018 ?",
+			"answer": {
+				"value": 1257
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FDCA en 2018 ?",
+			"answer": {
+				"value": 772
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FDCA en 2018 ?",
+			"answer": {
+				"value": 2029
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FDCA en 2019 ?",
+			"answer": {
+				"value": 1327
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FDCA en 2019 ?",
+			"answer": {
+				"value": 791
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FDCA en 2019 ?",
+			"answer": {
+				"value": 2118
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FDCA en 2020 ?",
+			"answer": {
+				"value": 1472
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FDCA en 2020 ?",
+			"answer": {
+				"value": 807
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FDCA en 2020 ?",
+			"answer": {
+				"value": 2279
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FDCA en 2021 ?",
+			"answer": {
+				"value": 1553
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FDCA en 2021 ?",
+			"answer": {
+				"value": 810
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FDCA en 2021 ?",
+			"answer": {
+				"value": 2363
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FTSR en 2011 ?",
+			"answer": {
+				"value": 34
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FTSR en 2011 ?",
+			"answer": {
+				"value": 45
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FTSR en 2011 ?",
+			"answer": {
+				"value": 79
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FTSR en 2012 ?",
+			"answer": {
+				"value": 39
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FTSR en 2012 ?",
+			"answer": {
+				"value": 39
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FTSR en 2012 ?",
+			"answer": {
+				"value": 78
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FTSR en 2013 ?",
+			"answer": {
+				"value": 52
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FTSR en 2013 ?",
+			"answer": {
+				"value": 37
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FTSR en 2013 ?",
+			"answer": {
+				"value": 89
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FTSR en 2014 ?",
+			"answer": {
+				"value": 57
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FTSR en 2014 ?",
+			"answer": {
+				"value": 44
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FTSR en 2014 ?",
+			"answer": {
+				"value": 101
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FTSR en 2015 ?",
+			"answer": {
+				"value": 66
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FTSR en 2015 ?",
+			"answer": {
+				"value": 55
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FTSR en 2015 ?",
+			"answer": {
+				"value": 121
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FTSR en 2016 ?",
+			"answer": {
+				"value": 66
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FTSR en 2016 ?",
+			"answer": {
+				"value": 53
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FTSR en 2016 ?",
+			"answer": {
+				"value": 119
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FTSR en 2017 ?",
+			"answer": {
+				"value": 67
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FTSR en 2017 ?",
+			"answer": {
+				"value": 53
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FTSR en 2017 ?",
+			"answer": {
+				"value": 120
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FTSR en 2018 ?",
+			"answer": {
+				"value": 58
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FTSR en 2018 ?",
+			"answer": {
+				"value": 45
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FTSR en 2018 ?",
+			"answer": {
+				"value": 103
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FTSR en 2019 ?",
+			"answer": {
+				"value": 57
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FTSR en 2019 ?",
+			"answer": {
+				"value": 50
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FTSR en 2019 ?",
+			"answer": {
+				"value": 107
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FTSR en 2020 ?",
+			"answer": {
+				"value": 52
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FTSR en 2020 ?",
+			"answer": {
+				"value": 46
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FTSR en 2020 ?",
+			"answer": {
+				"value": 98
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FTSR en 2021 ?",
+			"answer": {
+				"value": 48
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FTSR en 2021 ?",
+			"answer": {
+				"value": 41
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FTSR en 2021 ?",
+			"answer": {
+				"value": 89
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FGSE en 2011 ?",
+			"answer": {
+				"value": 301
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FGSE en 2011 ?",
+			"answer": {
+				"value": 433
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FGSE en 2011 ?",
+			"answer": {
+				"value": 734
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FGSE en 2012 ?",
+			"answer": {
+				"value": 331
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FGSE en 2012 ?",
+			"answer": {
+				"value": 461
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FGSE en 2012 ?",
+			"answer": {
+				"value": 792
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FGSE en 2013 ?",
+			"answer": {
+				"value": 345
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FGSE en 2013 ?",
+			"answer": {
+				"value": 468
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FGSE en 2013 ?",
+			"answer": {
+				"value": 813
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FGSE en 2014 ?",
+			"answer": {
+				"value": 382
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FGSE en 2014 ?",
+			"answer": {
+				"value": 476
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FGSE en 2014 ?",
+			"answer": {
+				"value": 858
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FGSE en 2015 ?",
+			"answer": {
+				"value": 366
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FGSE en 2015 ?",
+			"answer": {
+				"value": 486
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FGSE en 2015 ?",
+			"answer": {
+				"value": 852
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FGSE en 2016 ?",
+			"answer": {
+				"value": 346
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FGSE en 2016 ?",
+			"answer": {
+				"value": 471
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FGSE en 2016 ?",
+			"answer": {
+				"value": 817
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FGSE en 2017 ?",
+			"answer": {
+				"value": 367
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FGSE en 2017 ?",
+			"answer": {
+				"value": 512
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FGSE en 2017 ?",
+			"answer": {
+				"value": 879
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FGSE en 2018 ?",
+			"answer": {
+				"value": 382
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FGSE en 2018 ?",
+			"answer": {
+				"value": 510
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FGSE en 2018 ?",
+			"answer": {
+				"value": 892
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FGSE en 2019 ?",
+			"answer": {
+				"value": 413
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FGSE en 2019 ?",
+			"answer": {
+				"value": 499
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FGSE en 2019 ?",
+			"answer": {
+				"value": 912
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FGSE en 2020 ?",
+			"answer": {
+				"value": 445
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FGSE en 2020 ?",
+			"answer": {
+				"value": 502
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FGSE en 2020 ?",
+			"answer": {
+				"value": 947
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de FGSE en 2021 ?",
+			"answer": {
+				"value": 421
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de FGSE en 2021 ?",
+			"answer": {
+				"value": 494
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de FGSE en 2021 ?",
+			"answer": {
+				"value": 915
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de SSP en 2011 ?",
+			"answer": {
+				"value": 1584
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de SSP en 2011 ?",
+			"answer": {
+				"value": 965
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de SSP en 2011 ?",
+			"answer": {
+				"value": 2549
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de SSP en 2012 ?",
+			"answer": {
+				"value": 1726
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de SSP en 2012 ?",
+			"answer": {
+				"value": 1045
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de SSP en 2012 ?",
+			"answer": {
+				"value": 2771
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de SSP en 2013 ?",
+			"answer": {
+				"value": 1849
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de SSP en 2013 ?",
+			"answer": {
+				"value": 1144
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de SSP en 2013 ?",
+			"answer": {
+				"value": 2993
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de SSP en 2014 ?",
+			"answer": {
+				"value": 1783
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de SSP en 2014 ?",
+			"answer": {
+				"value": 1107
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de SSP en 2014 ?",
+			"answer": {
+				"value": 2890
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de SSP en 2015 ?",
+			"answer": {
+				"value": 1779
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de SSP en 2015 ?",
+			"answer": {
+				"value": 1093
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de SSP en 2015 ?",
+			"answer": {
+				"value": 2872
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de SSP en 2016 ?",
+			"answer": {
+				"value": 1798
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de SSP en 2016 ?",
+			"answer": {
+				"value": 1134
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de SSP en 2016 ?",
+			"answer": {
+				"value": 2932
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de SSP en 2017 ?",
+			"answer": {
+				"value": 1920
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de SSP en 2017 ?",
+			"answer": {
+				"value": 1166
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de SSP en 2017 ?",
+			"answer": {
+				"value": 3086
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de SSP en 2018 ?",
+			"answer": {
+				"value": 1989
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de SSP en 2018 ?",
+			"answer": {
+				"value": 1196
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de SSP en 2018 ?",
+			"answer": {
+				"value": 3185
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de SSP en 2019 ?",
+			"answer": {
+				"value": 2039
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de SSP en 2019 ?",
+			"answer": {
+				"value": 1187
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de SSP en 2019 ?",
+			"answer": {
+				"value": 3226
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de SSP en 2020 ?",
+			"answer": {
+				"value": 2287
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de SSP en 2020 ?",
+			"answer": {
+				"value": 1221
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de SSP en 2020 ?",
+			"answer": {
+				"value": 3508
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de SSP en 2021 ?",
+			"answer": {
+				"value": 2403
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de SSP en 2021 ?",
+			"answer": {
+				"value": 1225
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de SSP en 2021 ?",
+			"answer": {
+				"value": 3628
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de TOTAL en 2011 ?",
+			"answer": {
+				"value": 6767
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de TOTAL en 2011 ?",
+			"answer": {
+				"value": 5445
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de TOTAL en 2011 ?",
+			"answer": {
+				"value": 12242
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de TOTAL en 2012 ?",
+			"answer": {
+				"value": 7111
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de TOTAL en 2012 ?",
+			"answer": {
+				"value": 5844
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de TOTAL en 2012 ?",
+			"answer": {
+				"value": 12955
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de TOTAL en 2013 ?",
+			"answer": {
+				"value": 7478
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de TOTAL en 2013 ?",
+			"answer": {
+				"value": 6165
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de TOTAL en 2013 ?",
+			"answer": {
+				"value": 13643
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de TOTAL en 2014 ?",
+			"answer": {
+				"value": 7736
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de TOTAL en 2014 ?",
+			"answer": {
+				"value": 6429
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de TOTAL en 2014 ?",
+			"answer": {
+				"value": 14165
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de TOTAL en 2015 ?",
+			"answer": {
+				"value": 7705
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de TOTAL en 2015 ?",
+			"answer": {
+				"value": 6484
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de TOTAL en 2015 ?",
+			"answer": {
+				"value": 14189
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de TOTAL en 2016 ?",
+			"answer": {
+				"value": 7827
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de TOTAL en 2016 ?",
+			"answer": {
+				"value": 6648
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de TOTAL en 2016 ?",
+			"answer": {
+				"value": 14475
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de TOTAL en 2017 ?",
+			"answer": {
+				"value": 8135
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de TOTAL en 2017 ?",
+			"answer": {
+				"value": 6841
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de TOTAL en 2017 ?",
+			"answer": {
+				"value": 14976
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de TOTAL en 2018 ?",
+			"answer": {
+				"value": 8480
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de TOTAL en 2018 ?",
+			"answer": {
+				"value": 6854
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de TOTAL en 2018 ?",
+			"answer": {
+				"value": 15334
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de TOTAL en 2019 ?",
+			"answer": {
+				"value": 8892
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de TOTAL en 2019 ?",
+			"answer": {
+				"value": 6976
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de TOTAL en 2019 ?",
+			"answer": {
+				"value": 15868
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de TOTAL en 2020 ?",
+			"answer": {
+				"value": 9758
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de TOTAL en 2020 ?",
+			"answer": {
+				"value": 7161
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de TOTAL en 2020 ?",
+			"answer": {
+				"value": 16919
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de TOTAL en 2021 ?",
+			"answer": {
+				"value": 9985
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de TOTAL en 2021 ?",
+			"answer": {
+				"value": 7156
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de TOTAL en 2021 ?",
+			"answer": {
+				"value": 17141
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de Lettres en 2011 ?",
+			"answer": {
+				"value": 1538
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de Lettres en 2011 ?",
+			"answer": {
+				"value": 779
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de Lettres en 2011 ?",
+			"answer": {
+				"value": 2317
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de Lettres en 2012 ?",
+			"answer": {
+				"value": 1512
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de Lettres en 2012 ?",
+			"answer": {
+				"value": 779
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de Lettres en 2012 ?",
+			"answer": {
+				"value": 2291
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de Lettres en 2013 ?",
+			"answer": {
+				"value": 1476
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de Lettres en 2013 ?",
+			"answer": {
+				"value": 796
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de Lettres en 2013 ?",
+			"answer": {
+				"value": 2272
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de Lettres en 2014 ?",
+			"answer": {
+				"value": 1442
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de Lettres en 2014 ?",
+			"answer": {
+				"value": 785
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de Lettres en 2014 ?",
+			"answer": {
+				"value": 2227
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de Lettres en 2015 ?",
+			"answer": {
+				"value": 1429
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de Lettres en 2015 ?",
+			"answer": {
+				"value": 804
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de Lettres en 2015 ?",
+			"answer": {
+				"value": 2233
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de Lettres en 2016 ?",
+			"answer": {
+				"value": 1363
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de Lettres en 2016 ?",
+			"answer": {
+				"value": 831
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de Lettres en 2016 ?",
+			"answer": {
+				"value": 2194
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de Lettres en 2017 ?",
+			"answer": {
+				"value": 1402
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de Lettres en 2017 ?",
+			"answer": {
+				"value": 827
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de Lettres en 2017 ?",
+			"answer": {
+				"value": 2229
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de Lettres en 2018 ?",
+			"answer": {
+				"value": 1426
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de Lettres en 2018 ?",
+			"answer": {
+				"value": 809
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de Lettres en 2018 ?",
+			"answer": {
+				"value": 2235
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de Lettres en 2019 ?",
+			"answer": {
+				"value": 1422
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de Lettres en 2019 ?",
+			"answer": {
+				"value": 833
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de Lettres en 2019 ?",
+			"answer": {
+				"value": 2255
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de Lettres en 2020 ?",
+			"answer": {
+				"value": 1462
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de Lettres en 2020 ?",
+			"answer": {
+				"value": 812
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de Lettres en 2020 ?",
+			"answer": {
+				"value": 2274
+			}
+		},
+		{
+			"question": "Combien d'étudiants féminin étaient inscrits à la faculté de Lettres en 2021 ?",
+			"answer": {
+				"value": 1396
+			}
+		},
+		{
+			"question": "Combien d'étudiants masculin étaient inscrits à la faculté de Lettres en 2021 ?",
+			"answer": {
+				"value": 804
+			}
+		},
+		{
+			"question": "Combien d'étudiants tous étaient inscrits à la faculté de Lettres en 2021 ?",
+			"answer": {
+				"value": 2200
+			}
+		}
+	],
+	[
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FCUE en 2013 ?",
+			"answer": {
+				"value": 39
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FCUE en 2014 ?",
+			"answer": {
+				"value": 158
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FCUE en 2015 ?",
+			"answer": {
+				"value": 184
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FCUE en 2016 ?",
+			"answer": {
+				"value": 145
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FCUE en 2017 ?",
+			"answer": {
+				"value": 168
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FCUE en 2018 ?",
+			"answer": {
+				"value": 201
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FCUE en 2019 ?",
+			"answer": {
+				"value": 302
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FCUE en 2020 ?",
+			"answer": {
+				"value": 338
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FCUE en 2021 ?",
+			"answer": {
+				"value": 330
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FBM en 2011 ?",
+			"answer": {
+				"value": 2048
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FBM en 2012 ?",
+			"answer": {
+				"value": 2099
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FBM en 2013 ?",
+			"answer": {
+				"value": 2162
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FBM en 2014 ?",
+			"answer": {
+				"value": 2235
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FBM en 2015 ?",
+			"answer": {
+				"value": 2273
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FBM en 2016 ?",
+			"answer": {
+				"value": 2428
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FBM en 2017 ?",
+			"answer": {
+				"value": 2510
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FBM en 2018 ?",
+			"answer": {
+				"value": 2612
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FBM en 2019 ?",
+			"answer": {
+				"value": 2783
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FBM en 2020 ?",
+			"answer": {
+				"value": 3004
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FBM en 2021 ?",
+			"answer": {
+				"value": 3069
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de HEC en 2011 ?",
+			"answer": {
+				"value": 1413
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de HEC en 2012 ?",
+			"answer": {
+				"value": 1551
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de HEC en 2013 ?",
+			"answer": {
+				"value": 1570
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de HEC en 2014 ?",
+			"answer": {
+				"value": 1694
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de HEC en 2015 ?",
+			"answer": {
+				"value": 1689
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de HEC en 2016 ?",
+			"answer": {
+				"value": 1703
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de HEC en 2017 ?",
+			"answer": {
+				"value": 1794
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de HEC en 2018 ?",
+			"answer": {
+				"value": 1921
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de HEC en 2019 ?",
+			"answer": {
+				"value": 1922
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de HEC en 2020 ?",
+			"answer": {
+				"value": 2065
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de HEC en 2021 ?",
+			"answer": {
+				"value": 2106
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FDCA en 2011 ?",
+			"answer": {
+				"value": 1268
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FDCA en 2012 ?",
+			"answer": {
+				"value": 1323
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FDCA en 2013 ?",
+			"answer": {
+				"value": 1358
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FDCA en 2014 ?",
+			"answer": {
+				"value": 1495
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FDCA en 2015 ?",
+			"answer": {
+				"value": 1489
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FDCA en 2016 ?",
+			"answer": {
+				"value": 1541
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FDCA en 2017 ?",
+			"answer": {
+				"value": 1531
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FDCA en 2018 ?",
+			"answer": {
+				"value": 1547
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FDCA en 2019 ?",
+			"answer": {
+				"value": 1624
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FDCA en 2020 ?",
+			"answer": {
+				"value": 1746
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FDCA en 2021 ?",
+			"answer": {
+				"value": 1794
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FTSR en 2011 ?",
+			"answer": {
+				"value": 56
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FTSR en 2012 ?",
+			"answer": {
+				"value": 51
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FTSR en 2013 ?",
+			"answer": {
+				"value": 61
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FTSR en 2014 ?",
+			"answer": {
+				"value": 71
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FTSR en 2015 ?",
+			"answer": {
+				"value": 86
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FTSR en 2016 ?",
+			"answer": {
+				"value": 84
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FTSR en 2017 ?",
+			"answer": {
+				"value": 87
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FTSR en 2018 ?",
+			"answer": {
+				"value": 71
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FTSR en 2019 ?",
+			"answer": {
+				"value": 72
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FTSR en 2020 ?",
+			"answer": {
+				"value": 65
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FTSR en 2021 ?",
+			"answer": {
+				"value": 57
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FGSE en 2011 ?",
+			"answer": {
+				"value": 602
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FGSE en 2012 ?",
+			"answer": {
+				"value": 646
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FGSE en 2013 ?",
+			"answer": {
+				"value": 670
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FGSE en 2014 ?",
+			"answer": {
+				"value": 700
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FGSE en 2015 ?",
+			"answer": {
+				"value": 686
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FGSE en 2016 ?",
+			"answer": {
+				"value": 647
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FGSE en 2017 ?",
+			"answer": {
+				"value": 691
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FGSE en 2018 ?",
+			"answer": {
+				"value": 704
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FGSE en 2019 ?",
+			"answer": {
+				"value": 723
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FGSE en 2020 ?",
+			"answer": {
+				"value": 753
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de FGSE en 2021 ?",
+			"answer": {
+				"value": 706
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de SSP en 2011 ?",
+			"answer": {
+				"value": 2133
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de SSP en 2012 ?",
+			"answer": {
+				"value": 2285
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de SSP en 2013 ?",
+			"answer": {
+				"value": 2451
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de SSP en 2014 ?",
+			"answer": {
+				"value": 2362
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de SSP en 2015 ?",
+			"answer": {
+				"value": 2369
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de SSP en 2016 ?",
+			"answer": {
+				"value": 2401
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de SSP en 2017 ?",
+			"answer": {
+				"value": 2539
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de SSP en 2018 ?",
+			"answer": {
+				"value": 2630
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de SSP en 2019 ?",
+			"answer": {
+				"value": 2662
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de SSP en 2020 ?",
+			"answer": {
+				"value": 2904
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de SSP en 2021 ?",
+			"answer": {
+				"value": 2962
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de TOTAL en 2011 ?",
+			"answer": {
+				"value": 9275
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de TOTAL en 2012 ?",
+			"answer": {
+				"value": 9667
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de TOTAL en 2013 ?",
+			"answer": {
+				"value": 9986
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de TOTAL en 2014 ?",
+			"answer": {
+				"value": 10366
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de TOTAL en 2015 ?",
+			"answer": {
+				"value": 10440
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de TOTAL en 2016 ?",
+			"answer": {
+				"value": 10560
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de TOTAL en 2017 ?",
+			"answer": {
+				"value": 10984
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de TOTAL en 2018 ?",
+			"answer": {
+				"value": 11367
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de TOTAL en 2019 ?",
+			"answer": {
+				"value": 11795
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de TOTAL en 2020 ?",
+			"answer": {
+				"value": 12608
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de TOTAL en 2021 ?",
+			"answer": {
+				"value": 12747
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de Lettres en 2011 ?",
+			"answer": {
+				"value": 1755
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de Lettres en 2012 ?",
+			"answer": {
+				"value": 1712
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de Lettres en 2013 ?",
+			"answer": {
+				"value": 1675
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de Lettres en 2014 ?",
+			"answer": {
+				"value": 1651
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de Lettres en 2015 ?",
+			"answer": {
+				"value": 1664
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de Lettres en 2016 ?",
+			"answer": {
+				"value": 1611
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de Lettres en 2017 ?",
+			"answer": {
+				"value": 1664
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de Lettres en 2018 ?",
+			"answer": {
+				"value": 1681
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de Lettres en 2019 ?",
+			"answer": {
+				"value": 1707
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de Lettres en 2020 ?",
+			"answer": {
+				"value": 1733
+			}
+		},
+		{
+			"question": "Combien d'étudiants suisses il y avait à la faculté de Lettres en 2021 ?",
+			"answer": {
+				"value": 1723
+			}
+		}
+	],
+	[
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FCUE en 2013 ?",
+			"answer": {
+				"value": 72
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FCUE en 2014 ?",
+			"answer": {
+				"value": 154
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FCUE en 2015 ?",
+			"answer": {
+				"value": 112
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FCUE en 2016 ?",
+			"answer": {
+				"value": 140
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FCUE en 2017 ?",
+			"answer": {
+				"value": 126
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FCUE en 2018 ?",
+			"answer": {
+				"value": 121
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FCUE en 2019 ?",
+			"answer": {
+				"value": 156
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FCUE en 2020 ?",
+			"answer": {
+				"value": 186
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FCUE en 2021 ?",
+			"answer": {
+				"value": 205
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FBM en 2011 ?",
+			"answer": {
+				"value": 556
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FBM en 2012 ?",
+			"answer": {
+				"value": 626
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FBM en 2013 ?",
+			"answer": {
+				"value": 692
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FBM en 2014 ?",
+			"answer": {
+				"value": 734
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FBM en 2015 ?",
+			"answer": {
+				"value": 750
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FBM en 2016 ?",
+			"answer": {
+				"value": 792
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FBM en 2017 ?",
+			"answer": {
+				"value": 858
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FBM en 2018 ?",
+			"answer": {
+				"value": 869
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FBM en 2019 ?",
+			"answer": {
+				"value": 905
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FBM en 2020 ?",
+			"answer": {
+				"value": 979
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FBM en 2021 ?",
+			"answer": {
+				"value": 1039
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de HEC en 2011 ?",
+			"answer": {
+				"value": 908
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de HEC en 2012 ?",
+			"answer": {
+				"value": 1036
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de HEC en 2013 ?",
+			"answer": {
+				"value": 1168
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de HEC en 2014 ?",
+			"answer": {
+				"value": 1217
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de HEC en 2015 ?",
+			"answer": {
+				"value": 1184
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de HEC en 2016 ?",
+			"answer": {
+				"value": 1196
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de HEC en 2017 ?",
+			"answer": {
+				"value": 1213
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de HEC en 2018 ?",
+			"answer": {
+				"value": 1166
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de HEC en 2019 ?",
+			"answer": {
+				"value": 1182
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de HEC en 2020 ?",
+			"answer": {
+				"value": 1241
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de HEC en 2021 ?",
+			"answer": {
+				"value": 1197
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FDCA en 2011 ?",
+			"answer": {
+				"value": 370
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FDCA en 2012 ?",
+			"answer": {
+				"value": 388
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FDCA en 2013 ?",
+			"answer": {
+				"value": 415
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FDCA en 2014 ?",
+			"answer": {
+				"value": 402
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FDCA en 2015 ?",
+			"answer": {
+				"value": 430
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FDCA en 2016 ?",
+			"answer": {
+				"value": 468
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FDCA en 2017 ?",
+			"answer": {
+				"value": 462
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FDCA en 2018 ?",
+			"answer": {
+				"value": 482
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FDCA en 2019 ?",
+			"answer": {
+				"value": 494
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FDCA en 2020 ?",
+			"answer": {
+				"value": 533
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FDCA en 2021 ?",
+			"answer": {
+				"value": 569
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FTSR en 2011 ?",
+			"answer": {
+				"value": 23
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FTSR en 2012 ?",
+			"answer": {
+				"value": 27
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FTSR en 2013 ?",
+			"answer": {
+				"value": 28
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FTSR en 2014 ?",
+			"answer": {
+				"value": 30
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FTSR en 2015 ?",
+			"answer": {
+				"value": 35
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FTSR en 2016 ?",
+			"answer": {
+				"value": 35
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FTSR en 2017 ?",
+			"answer": {
+				"value": 33
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FTSR en 2018 ?",
+			"answer": {
+				"value": 32
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FTSR en 2019 ?",
+			"answer": {
+				"value": 35
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FTSR en 2020 ?",
+			"answer": {
+				"value": 33
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FTSR en 2021 ?",
+			"answer": {
+				"value": 32
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FGSE en 2011 ?",
+			"answer": {
+				"value": 132
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FGSE en 2012 ?",
+			"answer": {
+				"value": 146
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FGSE en 2013 ?",
+			"answer": {
+				"value": 143
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FGSE en 2014 ?",
+			"answer": {
+				"value": 158
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FGSE en 2015 ?",
+			"answer": {
+				"value": 166
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FGSE en 2016 ?",
+			"answer": {
+				"value": 170
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FGSE en 2017 ?",
+			"answer": {
+				"value": 188
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FGSE en 2018 ?",
+			"answer": {
+				"value": 188
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FGSE en 2019 ?",
+			"answer": {
+				"value": 189
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FGSE en 2020 ?",
+			"answer": {
+				"value": 194
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de FGSE en 2021 ?",
+			"answer": {
+				"value": 209
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de SSP en 2011 ?",
+			"answer": {
+				"value": 416
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de SSP en 2012 ?",
+			"answer": {
+				"value": 486
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de SSP en 2013 ?",
+			"answer": {
+				"value": 542
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de SSP en 2014 ?",
+			"answer": {
+				"value": 528
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de SSP en 2015 ?",
+			"answer": {
+				"value": 503
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de SSP en 2016 ?",
+			"answer": {
+				"value": 531
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de SSP en 2017 ?",
+			"answer": {
+				"value": 547
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de SSP en 2018 ?",
+			"answer": {
+				"value": 555
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de SSP en 2019 ?",
+			"answer": {
+				"value": 564
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de SSP en 2020 ?",
+			"answer": {
+				"value": 604
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de SSP en 2021 ?",
+			"answer": {
+				"value": 666
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de TOTAL en 2011 ?",
+			"answer": {
+				"value": 2967
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de TOTAL en 2012 ?",
+			"answer": {
+				"value": 3288
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de TOTAL en 2013 ?",
+			"answer": {
+				"value": 3657
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de TOTAL en 2014 ?",
+			"answer": {
+				"value": 3799
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de TOTAL en 2015 ?",
+			"answer": {
+				"value": 3749
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de TOTAL en 2016 ?",
+			"answer": {
+				"value": 3915
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de TOTAL en 2017 ?",
+			"answer": {
+				"value": 3992
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de TOTAL en 2018 ?",
+			"answer": {
+				"value": 3967
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de TOTAL en 2019 ?",
+			"answer": {
+				"value": 4073
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de TOTAL en 2020 ?",
+			"answer": {
+				"value": 4311
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de TOTAL en 2021 ?",
+			"answer": {
+				"value": 4394
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de Lettres en 2011 ?",
+			"answer": {
+				"value": 562
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de Lettres en 2012 ?",
+			"answer": {
+				"value": 579
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de Lettres en 2013 ?",
+			"answer": {
+				"value": 597
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de Lettres en 2014 ?",
+			"answer": {
+				"value": 576
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de Lettres en 2015 ?",
+			"answer": {
+				"value": 569
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de Lettres en 2016 ?",
+			"answer": {
+				"value": 583
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de Lettres en 2017 ?",
+			"answer": {
+				"value": 565
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de Lettres en 2018 ?",
+			"answer": {
+				"value": 554
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de Lettres en 2019 ?",
+			"answer": {
+				"value": 548
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de Lettres en 2020 ?",
+			"answer": {
+				"value": 541
+			}
+		},
+		{
+			"question": "Combien d'étudiants internationaux il y avait à la faculté de Lettres en 2021 ?",
+			"answer": {
+				"value": 477
+			}
+		}
+	],
+	[
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FCUE en 2013 ?",
+			"answer": {
+				"value": 111
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FCUE en 2014 ?",
+			"answer": {
+				"value": 312
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FCUE en 2015 ?",
+			"answer": {
+				"value": 296
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FCUE en 2016 ?",
+			"answer": {
+				"value": 285
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FCUE en 2017 ?",
+			"answer": {
+				"value": 294
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FCUE en 2018 ?",
+			"answer": {
+				"value": 322
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FCUE en 2019 ?",
+			"answer": {
+				"value": 458
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FCUE en 2020 ?",
+			"answer": {
+				"value": 524
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FCUE en 2021 ?",
+			"answer": {
+				"value": 535
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FBM en 2011 ?",
+			"answer": {
+				"value": 2604
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FBM en 2012 ?",
+			"answer": {
+				"value": 2725
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FBM en 2013 ?",
+			"answer": {
+				"value": 2854
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FBM en 2014 ?",
+			"answer": {
+				"value": 2969
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FBM en 2015 ?",
+			"answer": {
+				"value": 3023
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FBM en 2016 ?",
+			"answer": {
+				"value": 3220
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FBM en 2017 ?",
+			"answer": {
+				"value": 3368
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FBM en 2018 ?",
+			"answer": {
+				"value": 3481
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FBM en 2019 ?",
+			"answer": {
+				"value": 3688
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FBM en 2020 ?",
+			"answer": {
+				"value": 3983
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FBM en 2021 ?",
+			"answer": {
+				"value": 4108
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de HEC en 2011 ?",
+			"answer": {
+				"value": 2321
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de HEC en 2012 ?",
+			"answer": {
+				"value": 2587
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de HEC en 2013 ?",
+			"answer": {
+				"value": 2738
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de HEC en 2014 ?",
+			"answer": {
+				"value": 2911
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de HEC en 2015 ?",
+			"answer": {
+				"value": 2873
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de HEC en 2016 ?",
+			"answer": {
+				"value": 2899
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de HEC en 2017 ?",
+			"answer": {
+				"value": 3007
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de HEC en 2018 ?",
+			"answer": {
+				"value": 3087
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de HEC en 2019 ?",
+			"answer": {
+				"value": 3104
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de HEC en 2020 ?",
+			"answer": {
+				"value": 3306
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de HEC en 2021 ?",
+			"answer": {
+				"value": 3303
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FDCA en 2011 ?",
+			"answer": {
+				"value": 1638
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FDCA en 2012 ?",
+			"answer": {
+				"value": 1711
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FDCA en 2013 ?",
+			"answer": {
+				"value": 1773
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FDCA en 2014 ?",
+			"answer": {
+				"value": 1897
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FDCA en 2015 ?",
+			"answer": {
+				"value": 1919
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FDCA en 2016 ?",
+			"answer": {
+				"value": 2009
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FDCA en 2017 ?",
+			"answer": {
+				"value": 1993
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FDCA en 2018 ?",
+			"answer": {
+				"value": 2029
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FDCA en 2019 ?",
+			"answer": {
+				"value": 2118
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FDCA en 2020 ?",
+			"answer": {
+				"value": 2279
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FDCA en 2021 ?",
+			"answer": {
+				"value": 2363
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FTSR en 2011 ?",
+			"answer": {
+				"value": 79
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FTSR en 2012 ?",
+			"answer": {
+				"value": 78
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FTSR en 2013 ?",
+			"answer": {
+				"value": 89
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FTSR en 2014 ?",
+			"answer": {
+				"value": 101
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FTSR en 2015 ?",
+			"answer": {
+				"value": 121
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FTSR en 2016 ?",
+			"answer": {
+				"value": 119
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FTSR en 2017 ?",
+			"answer": {
+				"value": 120
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FTSR en 2018 ?",
+			"answer": {
+				"value": 103
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FTSR en 2019 ?",
+			"answer": {
+				"value": 107
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FTSR en 2020 ?",
+			"answer": {
+				"value": 98
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FTSR en 2021 ?",
+			"answer": {
+				"value": 89
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FGSE en 2011 ?",
+			"answer": {
+				"value": 734
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FGSE en 2012 ?",
+			"answer": {
+				"value": 792
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FGSE en 2013 ?",
+			"answer": {
+				"value": 813
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FGSE en 2014 ?",
+			"answer": {
+				"value": 858
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FGSE en 2015 ?",
+			"answer": {
+				"value": 852
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FGSE en 2016 ?",
+			"answer": {
+				"value": 817
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FGSE en 2017 ?",
+			"answer": {
+				"value": 879
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FGSE en 2018 ?",
+			"answer": {
+				"value": 892
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FGSE en 2019 ?",
+			"answer": {
+				"value": 912
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FGSE en 2020 ?",
+			"answer": {
+				"value": 947
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de FGSE en 2021 ?",
+			"answer": {
+				"value": 915
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de SSP en 2011 ?",
+			"answer": {
+				"value": 2549
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de SSP en 2012 ?",
+			"answer": {
+				"value": 2771
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de SSP en 2013 ?",
+			"answer": {
+				"value": 2993
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de SSP en 2014 ?",
+			"answer": {
+				"value": 2890
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de SSP en 2015 ?",
+			"answer": {
+				"value": 2872
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de SSP en 2016 ?",
+			"answer": {
+				"value": 2932
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de SSP en 2017 ?",
+			"answer": {
+				"value": 3086
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de SSP en 2018 ?",
+			"answer": {
+				"value": 3185
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de SSP en 2019 ?",
+			"answer": {
+				"value": 3226
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de SSP en 2020 ?",
+			"answer": {
+				"value": 3508
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de SSP en 2021 ?",
+			"answer": {
+				"value": 3628
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de TOTAL en 2011 ?",
+			"answer": {
+				"value": 12242
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de TOTAL en 2012 ?",
+			"answer": {
+				"value": 12955
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de TOTAL en 2013 ?",
+			"answer": {
+				"value": 13643
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de TOTAL en 2014 ?",
+			"answer": {
+				"value": 14165
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de TOTAL en 2015 ?",
+			"answer": {
+				"value": 14189
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de TOTAL en 2016 ?",
+			"answer": {
+				"value": 14475
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de TOTAL en 2017 ?",
+			"answer": {
+				"value": 14976
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de TOTAL en 2018 ?",
+			"answer": {
+				"value": 15334
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de TOTAL en 2019 ?",
+			"answer": {
+				"value": 15868
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de TOTAL en 2020 ?",
+			"answer": {
+				"value": 16919
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de TOTAL en 2021 ?",
+			"answer": {
+				"value": 17141
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de Lettres en 2011 ?",
+			"answer": {
+				"value": 2317
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de Lettres en 2012 ?",
+			"answer": {
+				"value": 2291
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de Lettres en 2013 ?",
+			"answer": {
+				"value": 2272
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de Lettres en 2014 ?",
+			"answer": {
+				"value": 2227
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de Lettres en 2015 ?",
+			"answer": {
+				"value": 2233
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de Lettres en 2016 ?",
+			"answer": {
+				"value": 2194
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de Lettres en 2017 ?",
+			"answer": {
+				"value": 2229
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de Lettres en 2018 ?",
+			"answer": {
+				"value": 2235
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de Lettres en 2019 ?",
+			"answer": {
+				"value": 2255
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de Lettres en 2020 ?",
+			"answer": {
+				"value": 2274
+			}
+		},
+		{
+			"question": "Combien d'étudiants étaient inscrits à la faculté de Lettres en 2021 ?",
+			"answer": {
+				"value": 2200
+			}
+		}
+	],
+	[
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FCUE en 2013 ?",
+			"answer": {
+				"value": 0.6486
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FCUE en 2014 ?",
+			"answer": {
+				"value": 0.4936
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FCUE en 2015 ?",
+			"answer": {
+				"value": 0.3784
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FCUE en 2016 ?",
+			"answer": {
+				"value": 0.4912
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FCUE en 2017 ?",
+			"answer": {
+				"value": 0.4286
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FCUE en 2018 ?",
+			"answer": {
+				"value": 0.3758
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FCUE en 2019 ?",
+			"answer": {
+				"value": 0.3406
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FCUE en 2020 ?",
+			"answer": {
+				"value": 0.355
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FCUE en 2021 ?",
+			"answer": {
+				"value": 0.3832
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FBM en 2011 ?",
+			"answer": {
+				"value": 0.2135
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FBM en 2012 ?",
+			"answer": {
+				"value": 0.2297
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FBM en 2013 ?",
+			"answer": {
+				"value": 0.2425
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FBM en 2014 ?",
+			"answer": {
+				"value": 0.2472
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FBM en 2015 ?",
+			"answer": {
+				"value": 0.2481
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FBM en 2016 ?",
+			"answer": {
+				"value": 0.246
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FBM en 2017 ?",
+			"answer": {
+				"value": 0.2548
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FBM en 2018 ?",
+			"answer": {
+				"value": 0.2496
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FBM en 2019 ?",
+			"answer": {
+				"value": 0.2454
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FBM en 2020 ?",
+			"answer": {
+				"value": 0.2458
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FBM en 2021 ?",
+			"answer": {
+				"value": 0.2529
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de HEC en 2011 ?",
+			"answer": {
+				"value": 0.3912
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de HEC en 2012 ?",
+			"answer": {
+				"value": 0.4005
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de HEC en 2013 ?",
+			"answer": {
+				"value": 0.4266
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de HEC en 2014 ?",
+			"answer": {
+				"value": 0.4181
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de HEC en 2015 ?",
+			"answer": {
+				"value": 0.4121
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de HEC en 2016 ?",
+			"answer": {
+				"value": 0.4126
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de HEC en 2017 ?",
+			"answer": {
+				"value": 0.4034
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de HEC en 2018 ?",
+			"answer": {
+				"value": 0.3777
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de HEC en 2019 ?",
+			"answer": {
+				"value": 0.3808
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de HEC en 2020 ?",
+			"answer": {
+				"value": 0.3754
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de HEC en 2021 ?",
+			"answer": {
+				"value": 0.3624
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FDCA en 2011 ?",
+			"answer": {
+				"value": 0.2259
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FDCA en 2012 ?",
+			"answer": {
+				"value": 0.2268
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FDCA en 2013 ?",
+			"answer": {
+				"value": 0.2341
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FDCA en 2014 ?",
+			"answer": {
+				"value": 0.2119
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FDCA en 2015 ?",
+			"answer": {
+				"value": 0.2241
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FDCA en 2016 ?",
+			"answer": {
+				"value": 0.233
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FDCA en 2017 ?",
+			"answer": {
+				"value": 0.2318
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FDCA en 2018 ?",
+			"answer": {
+				"value": 0.2376
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FDCA en 2019 ?",
+			"answer": {
+				"value": 0.2332
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FDCA en 2020 ?",
+			"answer": {
+				"value": 0.2339
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FDCA en 2021 ?",
+			"answer": {
+				"value": 0.2408
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FTSR en 2011 ?",
+			"answer": {
+				"value": 0.2911
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FTSR en 2012 ?",
+			"answer": {
+				"value": 0.3462
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FTSR en 2013 ?",
+			"answer": {
+				"value": 0.3146
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FTSR en 2014 ?",
+			"answer": {
+				"value": 0.297
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FTSR en 2015 ?",
+			"answer": {
+				"value": 0.2893
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FTSR en 2016 ?",
+			"answer": {
+				"value": 0.2941
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FTSR en 2017 ?",
+			"answer": {
+				"value": 0.275
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FTSR en 2018 ?",
+			"answer": {
+				"value": 0.3107
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FTSR en 2019 ?",
+			"answer": {
+				"value": 0.3271
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FTSR en 2020 ?",
+			"answer": {
+				"value": 0.3367
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FTSR en 2021 ?",
+			"answer": {
+				"value": 0.3596
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FGSE en 2011 ?",
+			"answer": {
+				"value": 0.1798
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FGSE en 2012 ?",
+			"answer": {
+				"value": 0.1843
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FGSE en 2013 ?",
+			"answer": {
+				"value": 0.1759
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FGSE en 2014 ?",
+			"answer": {
+				"value": 0.1841
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FGSE en 2015 ?",
+			"answer": {
+				"value": 0.1948
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FGSE en 2016 ?",
+			"answer": {
+				"value": 0.2081
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FGSE en 2017 ?",
+			"answer": {
+				"value": 0.2139
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FGSE en 2018 ?",
+			"answer": {
+				"value": 0.2108
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FGSE en 2019 ?",
+			"answer": {
+				"value": 0.2072
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FGSE en 2020 ?",
+			"answer": {
+				"value": 0.2049
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de FGSE en 2021 ?",
+			"answer": {
+				"value": 0.2284
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de SSP en 2011 ?",
+			"answer": {
+				"value": 0.1632
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de SSP en 2012 ?",
+			"answer": {
+				"value": 0.1754
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de SSP en 2013 ?",
+			"answer": {
+				"value": 0.1811
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de SSP en 2014 ?",
+			"answer": {
+				"value": 0.1827
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de SSP en 2015 ?",
+			"answer": {
+				"value": 0.1751
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de SSP en 2016 ?",
+			"answer": {
+				"value": 0.1811
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de SSP en 2017 ?",
+			"answer": {
+				"value": 0.1773
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de SSP en 2018 ?",
+			"answer": {
+				"value": 0.1743
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de SSP en 2019 ?",
+			"answer": {
+				"value": 0.1748
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de SSP en 2020 ?",
+			"answer": {
+				"value": 0.1722
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de SSP en 2021 ?",
+			"answer": {
+				"value": 0.1836
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de TOTAL en 2011 ?",
+			"answer": {
+				"value": 0.2424
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de TOTAL en 2012 ?",
+			"answer": {
+				"value": 0.2538
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de TOTAL en 2013 ?",
+			"answer": {
+				"value": 0.268
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de TOTAL en 2014 ?",
+			"answer": {
+				"value": 0.2682
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de TOTAL en 2015 ?",
+			"answer": {
+				"value": 0.2642
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de TOTAL en 2016 ?",
+			"answer": {
+				"value": 0.2705
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de TOTAL en 2017 ?",
+			"answer": {
+				"value": 0.2666
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de TOTAL en 2018 ?",
+			"answer": {
+				"value": 0.2587
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de TOTAL en 2019 ?",
+			"answer": {
+				"value": 0.2567
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de TOTAL en 2020 ?",
+			"answer": {
+				"value": 0.2548
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de TOTAL en 2021 ?",
+			"answer": {
+				"value": 0.2563
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de Lettres en 2011 ?",
+			"answer": {
+				"value": 0.2426
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de Lettres en 2012 ?",
+			"answer": {
+				"value": 0.2527
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de Lettres en 2013 ?",
+			"answer": {
+				"value": 0.2628
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de Lettres en 2014 ?",
+			"answer": {
+				"value": 0.2586
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de Lettres en 2015 ?",
+			"answer": {
+				"value": 0.2548
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de Lettres en 2016 ?",
+			"answer": {
+				"value": 0.2657
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de Lettres en 2017 ?",
+			"answer": {
+				"value": 0.2535
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de Lettres en 2018 ?",
+			"answer": {
+				"value": 0.2479
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de Lettres en 2019 ?",
+			"answer": {
+				"value": 0.243
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de Lettres en 2020 ?",
+			"answer": {
+				"value": 0.2379
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants internationaux à la faculté de Lettres en 2021 ?",
+			"answer": {
+				"value": 0.2168
+			}
+		}
+	],
+	[
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FCUE en 2013 ?",
+			"answer": {
+				"value": 0.3514
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FCUE en 2014 ?",
+			"answer": {
+				"value": 0.5064
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FCUE en 2015 ?",
+			"answer": {
+				"value": 0.6216
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FCUE en 2016 ?",
+			"answer": {
+				"value": 0.5088
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FCUE en 2017 ?",
+			"answer": {
+				"value": 0.5714
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FCUE en 2018 ?",
+			"answer": {
+				"value": 0.6242
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FCUE en 2019 ?",
+			"answer": {
+				"value": 0.6594
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FCUE en 2020 ?",
+			"answer": {
+				"value": 0.645
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FCUE en 2021 ?",
+			"answer": {
+				"value": 0.6168
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FBM en 2011 ?",
+			"answer": {
+				"value": 0.7865
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FBM en 2012 ?",
+			"answer": {
+				"value": 0.7703
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FBM en 2013 ?",
+			"answer": {
+				"value": 0.7575
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FBM en 2014 ?",
+			"answer": {
+				"value": 0.7528
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FBM en 2015 ?",
+			"answer": {
+				"value": 0.7519
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FBM en 2016 ?",
+			"answer": {
+				"value": 0.754
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FBM en 2017 ?",
+			"answer": {
+				"value": 0.7452
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FBM en 2018 ?",
+			"answer": {
+				"value": 0.7504
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FBM en 2019 ?",
+			"answer": {
+				"value": 0.7546
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FBM en 2020 ?",
+			"answer": {
+				"value": 0.7542
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FBM en 2021 ?",
+			"answer": {
+				"value": 0.7471
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de HEC en 2011 ?",
+			"answer": {
+				"value": 0.6088
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de HEC en 2012 ?",
+			"answer": {
+				"value": 0.5995
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de HEC en 2013 ?",
+			"answer": {
+				"value": 0.5734
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de HEC en 2014 ?",
+			"answer": {
+				"value": 0.5819
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de HEC en 2015 ?",
+			"answer": {
+				"value": 0.5879
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de HEC en 2016 ?",
+			"answer": {
+				"value": 0.5874
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de HEC en 2017 ?",
+			"answer": {
+				"value": 0.5966
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de HEC en 2018 ?",
+			"answer": {
+				"value": 0.6223
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de HEC en 2019 ?",
+			"answer": {
+				"value": 0.6192
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de HEC en 2020 ?",
+			"answer": {
+				"value": 0.6246
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de HEC en 2021 ?",
+			"answer": {
+				"value": 0.6376
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FDCA en 2011 ?",
+			"answer": {
+				"value": 0.7741
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FDCA en 2012 ?",
+			"answer": {
+				"value": 0.7732
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FDCA en 2013 ?",
+			"answer": {
+				"value": 0.7659
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FDCA en 2014 ?",
+			"answer": {
+				"value": 0.7881
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FDCA en 2015 ?",
+			"answer": {
+				"value": 0.7759
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FDCA en 2016 ?",
+			"answer": {
+				"value": 0.767
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FDCA en 2017 ?",
+			"answer": {
+				"value": 0.7682
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FDCA en 2018 ?",
+			"answer": {
+				"value": 0.7624
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FDCA en 2019 ?",
+			"answer": {
+				"value": 0.7668
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FDCA en 2020 ?",
+			"answer": {
+				"value": 0.7661
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FDCA en 2021 ?",
+			"answer": {
+				"value": 0.7592
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FTSR en 2011 ?",
+			"answer": {
+				"value": 0.7089
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FTSR en 2012 ?",
+			"answer": {
+				"value": 0.6538
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FTSR en 2013 ?",
+			"answer": {
+				"value": 0.6854
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FTSR en 2014 ?",
+			"answer": {
+				"value": 0.703
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FTSR en 2015 ?",
+			"answer": {
+				"value": 0.7107
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FTSR en 2016 ?",
+			"answer": {
+				"value": 0.7059
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FTSR en 2017 ?",
+			"answer": {
+				"value": 0.725
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FTSR en 2018 ?",
+			"answer": {
+				"value": 0.6893
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FTSR en 2019 ?",
+			"answer": {
+				"value": 0.6729
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FTSR en 2020 ?",
+			"answer": {
+				"value": 0.6633
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FTSR en 2021 ?",
+			"answer": {
+				"value": 0.6404
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FGSE en 2011 ?",
+			"answer": {
+				"value": 0.8202
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FGSE en 2012 ?",
+			"answer": {
+				"value": 0.8157
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FGSE en 2013 ?",
+			"answer": {
+				"value": 0.8241
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FGSE en 2014 ?",
+			"answer": {
+				"value": 0.8159
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FGSE en 2015 ?",
+			"answer": {
+				"value": 0.8052
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FGSE en 2016 ?",
+			"answer": {
+				"value": 0.7919
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FGSE en 2017 ?",
+			"answer": {
+				"value": 0.7861
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FGSE en 2018 ?",
+			"answer": {
+				"value": 0.7892
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FGSE en 2019 ?",
+			"answer": {
+				"value": 0.7928
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FGSE en 2020 ?",
+			"answer": {
+				"value": 0.7951
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de FGSE en 2021 ?",
+			"answer": {
+				"value": 0.7716
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de SSP en 2011 ?",
+			"answer": {
+				"value": 0.8368
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de SSP en 2012 ?",
+			"answer": {
+				"value": 0.8246
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de SSP en 2013 ?",
+			"answer": {
+				"value": 0.8189
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de SSP en 2014 ?",
+			"answer": {
+				"value": 0.8173
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de SSP en 2015 ?",
+			"answer": {
+				"value": 0.8249
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de SSP en 2016 ?",
+			"answer": {
+				"value": 0.8189
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de SSP en 2017 ?",
+			"answer": {
+				"value": 0.8227
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de SSP en 2018 ?",
+			"answer": {
+				"value": 0.8257
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de SSP en 2019 ?",
+			"answer": {
+				"value": 0.8252
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de SSP en 2020 ?",
+			"answer": {
+				"value": 0.8278
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de SSP en 2021 ?",
+			"answer": {
+				"value": 0.8164
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de TOTAL en 2011 ?",
+			"answer": {
+				"value": 0.7576
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de TOTAL en 2012 ?",
+			"answer": {
+				"value": 0.7462
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de TOTAL en 2013 ?",
+			"answer": {
+				"value": 0.732
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de TOTAL en 2014 ?",
+			"answer": {
+				"value": 0.7318
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de TOTAL en 2015 ?",
+			"answer": {
+				"value": 0.7358
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de TOTAL en 2016 ?",
+			"answer": {
+				"value": 0.7295
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de TOTAL en 2017 ?",
+			"answer": {
+				"value": 0.7334
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de TOTAL en 2018 ?",
+			"answer": {
+				"value": 0.7413
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de TOTAL en 2019 ?",
+			"answer": {
+				"value": 0.7433
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de TOTAL en 2020 ?",
+			"answer": {
+				"value": 0.7452
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de TOTAL en 2021 ?",
+			"answer": {
+				"value": 0.7437
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de Lettres en 2011 ?",
+			"answer": {
+				"value": 0.7574
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de Lettres en 2012 ?",
+			"answer": {
+				"value": 0.7473
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de Lettres en 2013 ?",
+			"answer": {
+				"value": 0.7372
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de Lettres en 2014 ?",
+			"answer": {
+				"value": 0.7414
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de Lettres en 2015 ?",
+			"answer": {
+				"value": 0.7452
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de Lettres en 2016 ?",
+			"answer": {
+				"value": 0.7343
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de Lettres en 2017 ?",
+			"answer": {
+				"value": 0.7465
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de Lettres en 2018 ?",
+			"answer": {
+				"value": 0.7521
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de Lettres en 2019 ?",
+			"answer": {
+				"value": 0.757
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de Lettres en 2020 ?",
+			"answer": {
+				"value": 0.7621
+			}
+		},
+		{
+			"question": "Quelle était la proportion d'étudiants suisses à la faculté de Lettres en 2021 ?",
+			"answer": {
+				"value": 0.7832
+			}
+		}
+	]
+]

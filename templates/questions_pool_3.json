@@ -1,0 +1,10 @@
+[
+	[
+		{
+			"question" : "Quel est la différence du nombre d'étudiants inscrits à la faculté de {faculté} entre {année 1} et {année 2} ?",
+			"answer" : {
+				"value" : ["{évolution}"]
+			}
+		}
+	]
+]
