@@ -1,5 +1,5 @@
 python-dotenv
 openai
 pandas
-rpy2
+# rpy2
 pyreadr
