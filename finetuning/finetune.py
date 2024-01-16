@@ -5,7 +5,7 @@ from openai import OpenAI
 
 
 parser = argparse.ArgumentParser(description="Fine-tune OpenAI model.")
-parser.add_argument('--epochs', type=int, default=20, help='Number of training epochs')
+parser.add_argument('--epochs', type=int, default=30, help='Number of training epochs')
 parser.add_argument('--td', type=str, default='data/training_data.jsonl', help='Path to training data')
 parser.add_argument('--vd', type=str, default='data/validating_data.jsonl', help='Path to validating data')
 parser.add_argument('--model', type=str, default='gpt-3.5-turbo-1106', help='Model to fine-tune')
