@@ -5,6 +5,7 @@ import argparse
 from openai import OpenAI
 from datetime import datetime
 import random
+import re
 
 from dotenv import load_dotenv
 
@@ -51,6 +52,13 @@ def get_last_fine_tuned_model():
 			return model.fine_tuned_model
 	return None
 
+def evaluate_questions(questions):
+	nb_valid_questions = 0
+	for question in questions:
+		if question.valid:
+			nb_valid_questions += 1
+	return nb_valid_questions / len(questions)
+
 def completions(message, model_id):
 	response = client.chat.completions.create(
 		model=model_id,
@@ -62,10 +70,13 @@ def completions(message, model_id):
 	)
 	return response.choices[0].message.content
 
+def extract_number_from_string(input_string):
+    numbers = re.findall(r'[+-]?[0-9]+(?:\.[0-9]+)?', input_string)
+    return float(numbers[0]) if numbers else None
+
 def test_question(question):
 	response = completions(question.question, model_id)
-	question.set_answer(response)
-	question.print_all()
+	question.set_answer(extract_number_from_string(response))
 
 if __name__ == '__main__':
 	if args.model == '':
@@ -87,7 +98,11 @@ if __name__ == '__main__':
 	if args.question == '':
 		questions = []
 		for question in data_one_tab[:args.nb_questions]:
-			questions.append(Question(question['question'], question['answer']))
+			questions.append(Question(question['question'], float(question['answer']['value'])))
 
 		for question in questions:
 			test_question(question)
+			question.set_valid(question.evaluate())
+			question.print_all()
+		
+		print(f"Accuracy: {evaluate_questions(questions) * 100}%")
