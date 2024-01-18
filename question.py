@@ -23,3 +23,11 @@ class Question:
 	
 	def set_valid(self, valid):
 		self.valid = valid
+	
+	def to_json(self):
+		return {
+			'question': self.question,
+			'answer_valid': self.answer_valid,
+			'answer': self.answer,
+			'valid': self.valid
+		}
