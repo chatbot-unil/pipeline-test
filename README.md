@@ -103,3 +103,25 @@ Maintenant que j'ai les pools de questions je vais pouvoir créer la pipeline de
     }
 ]
 ```
+
+Ensuite pour chaque pool il faudra crée des fichiers `jsonl` pour le finetuning (un de train et un de test). Pour cela je vais utiliser le script `create_json_finetuning.py`. Ce script va prendre en entrée un dossier contenant les fichiers json des pools de questions et va créer 2 fichier par pool de questions. Un fichier de train et un fichier de validation qui sont les 2 requis par openai pour le finetuning. Les fichiers sont sous la forme suivante :
+
+```json
+{"messages": [{"role": "system", "content": "Tu es un data scientist. On te pose des questions concernant les étudiants inscrits au semestre d’automne, par faculté selon le sexe. Les réponses doivent être sous forme de JSON. {'value': valeur_statistique}"}, {"role": "user", "content": "Quelle était la proportion d'étudiants internationaux à la faculté de HEC en 2016 ?"}, {"role": "assistant", "content": "{'value': 0.4126}"}]}
+```
+
+A noté que les données de finetuning représente 80% des données et les données de validation 20% des données. Et que toutes les paires questions réponses requièrent un message système qui est le même pour toutes les paires questions réponses.
+
+`"Tu es un data scientist. On te pose des questions concernant les étudiants inscrits au semestre d’automne, par faculté selon le sexe. Les réponses doivent être sous forme de JSON. {'value': valeur_statistique}"`
+
+Pour lancer le script il faut faire `python3 create_json_finetuning.py --path_to_pool_data <path_to_pool_data>`
+
+## Finetuning
+
+Pour le finetuning j'ai utilisé le script `finetune.py` qui est exactement le même que j'ai utiliser pour mes test de finetuning. Pour lancer le finetuning il faut faire `python3 finetune.py --td <path_to_train_data> --vd <path_to_validation_data> --epochs <number_of_epochs>`
+
+## Test finetuning
+
+Pour tester le finetuning j'ai utilisé le script `test_finetuning.py`. Il prend en entrée un répertoire contenant les pool ou il peut aussi prendre en entrée un seul fichier de pool de questions. Il va ensuite prendre un nombre de questions passé en paramètre pour les tester dans le modèle finetuner et ensuite comparer les résultats optenu avec les vrai résultats et ensuite crée un fichier de log en json qui contient les résultats de chaque question et un pourcentage de réussite. Pour lancer le script il faut faire `python3 test_finetuning.py --data <path_to_data> --nb_questions <number_of_questions>`
+
+## Assistant API
