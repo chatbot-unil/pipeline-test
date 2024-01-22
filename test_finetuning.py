@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 
 parser = argparse.ArgumentParser(description="Fine-tune OpenAI model.")
 parser.add_argument('--model', type=str, default='', help='Model to test')
-parser.add_argument('--data', type=str, default='../data/pool_data', help='Path to question data')
+parser.add_argument('--data', type=str, default='data/pool_data', help='Path to question data')
 parser.add_argument('--question', type=str, default='', help='Question to test')
 parser.add_argument('--nb_questions', type=int, default=10, help='Number of questions to test')
 args = parser.parse_args()
@@ -49,7 +49,7 @@ def get_last_fine_tuned_model():
 		if model.status == 'succeeded':
 			created_at = datetime.utcfromtimestamp(model.created_at).strftime('%Y-%m-%d %H:%M:%S')
 			print(f"Model name: {model.fine_tuned_model} - Created at: {created_at} - Epochs: {model.hyperparameters.n_epochs}")
-			return model.fine_tuned_model
+			return model.fine_tuned_model, model.hyperparameters.n_epochs
 	return None
 
 def evaluate_questions(questions):
@@ -84,7 +84,7 @@ def save_json_questions(json_questions, path):
 
 if __name__ == '__main__':
 	if args.model == '':
-		model_id = get_last_fine_tuned_model()
+		model_id , epochs = get_last_fine_tuned_model()
 	else:
 		model_id = args.model
 
@@ -101,6 +101,8 @@ if __name__ == '__main__':
 	questions = []
 	json_questions = {
 		'model': model_id,
+		'type': "fine-tuning",
+		'epochs': epochs,
 		'date': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
 		'nb_questions': args.nb_questions,
 		'questions': [],

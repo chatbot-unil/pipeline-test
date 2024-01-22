@@ -8,6 +8,11 @@ class Question:
 
 	def set_answer(self, answer):
 		self.answer = answer
+
+	def set_answer_valid(self, answer_valid):
+		self.answer_valid = [0] * len(answer_valid)
+		for i in range(len(answer_valid)):
+			self.answer_valid[i] = answer_valid[i]
 	
 	def print_all(self):
 		print(f"Question: {self.question}")
@@ -17,9 +22,12 @@ class Question:
 		print("")
 
 	def evaluate(self):
-		if self.answer_valid - 0.05 <= self.answer <= self.answer_valid + 0.05:
-			return True
-		return False
+		ret = True  # Initialize to True
+		for i in range(len(self.answer)):
+			if not (self.answer[i] - 0.05 <= self.answer_valid[i] <= self.answer[i] + 0.05):
+				ret = False  # Set to False if condition not met
+				break  # Exit the loop early if condition not met
+		return ret
 	
 	def set_valid(self, valid):
 		self.valid = valid
