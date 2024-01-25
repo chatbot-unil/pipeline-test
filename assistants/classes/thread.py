@@ -18,8 +18,9 @@ class Thread:
 
     def get_messages(self):
         if self.thread_id:
-            return self.client.beta.threads.messages.list(
-                thread_id=self.thread_id
-            )
+            list_messages = self.client.beta.threads.messages.list(
+				thread_id=self.thread_id
+			)
+            return list_messages
         else:
             raise ValueError("Thread ID is not set. Create or set a thread ID first.")

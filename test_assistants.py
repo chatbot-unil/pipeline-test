@@ -4,6 +4,7 @@ import os
 from dotenv import load_dotenv
 from openai import OpenAI
 import json
+import time
 from question import Question
 from datetime import datetime
 
@@ -35,15 +36,15 @@ def prepare_data(data):
     return questions
 
 def evaluate_questions(questions):
-	nb_valid_questions = 0
-	for question in questions:
-		if question.valid:
-			nb_valid_questions += 1
-	return nb_valid_questions / len(questions)
+    nb_valid_questions = 0
+    for question in questions:
+        if question.valid:
+            nb_valid_questions += 1
+    return nb_valid_questions / len(questions)
 
 def save_json_questions(json_questions, path):
-	with open(path, 'w', encoding='utf-8') as outfile:
-		json.dump(json_questions, outfile, ensure_ascii=False, indent=4)
+    with open(path, 'w', encoding='utf-8') as outfile:
+        json.dump(json_questions, outfile, ensure_ascii=False, indent=4)
 
 parser = argparse.ArgumentParser(description='Test assistants on OpenAI.')
 parser.add_argument('--data_test', default='data/test/test_data.json', help='Path to the JSON file containing test data')
@@ -137,10 +138,10 @@ json_questions = {
         'model': args.model,
         'type': "assistants",
         'epochs': "not applicable",
-		'date': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
-		'nb_questions': len(questions),
-		'questions': [],
-		'accuracy': 0
+        'date': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+        'nb_questions': len(questions),
+        'questions': [],
+        'accuracy': 0
 }
 # Interaction loop
 for question in questions:
@@ -150,9 +151,9 @@ for question in questions:
     run.execute_and_monitor(FUNCTIONS_TO_HANDLE)
 
     messages_all = thread.get_messages()
-    messages = json.loads(json.loads(messages_all.model_dump_json())['data'][0]['content'][0]["text"]['value'])
-    valeurs = messages['valeurs']
-
+    last_message = messages_all.data[0].content[0].text.value
+    valeurs = json.loads(last_message)['valeurs']
+    
     print(f"Question: {question.question}")
     print(f"Valeurs: {valeurs}")
     print(f"Answer valid: {question.answer_valid}")
@@ -160,6 +161,8 @@ for question in questions:
     question.set_answer(valeurs)
     question.set_valid(question.evaluate())
     json_questions['questions'].append(question.to_json())
+    
+    time.sleep(3)
 
 json_questions['accuracy'] = evaluate_questions(questions)
 
