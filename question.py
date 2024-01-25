@@ -22,6 +22,8 @@ class Question:
 		print("")
 
 	def evaluate(self):
+		if self.answer is None:
+			return False
 		ret = True  # Initialize to True
 		for i in range(len(self.answer)):
 			if not (self.answer[i] - 0.05 <= self.answer_valid[i] <= self.answer[i] + 0.05):
