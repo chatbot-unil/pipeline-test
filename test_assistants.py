@@ -151,7 +151,6 @@ for question in questions:
     run.start()
     run.execute_and_monitor(FUNCTIONS_TO_HANDLE)
 
-    # TODO UPDATE values json get last message
     messages_all = thread.get_messages()
     last_message = messages_all.data[0].content[0].text.value
     valeurs = []
@@ -162,7 +161,7 @@ for question in questions:
     except:
         print(f"Last message: {last_message}")
         pass
-    
+
     if len(valeurs) == 0:
         valeurs = None
     else:
