@@ -46,16 +46,17 @@ def save_json_questions(json_questions, path):
     with open(path, 'w', encoding='utf-8') as outfile:
         json.dump(json_questions, outfile, ensure_ascii=False, indent=4)
 
+load_dotenv()
+os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
+os.environ["MODEL_TO_USE"] = os.getenv("MODEL_TO_USE")
+
 parser = argparse.ArgumentParser(description='Test assistants on OpenAI.')
 parser.add_argument('--data_test', default='data/test/test_data.json', help='Path to the JSON file containing test data')
 parser.add_argument('--data_path', default='data/json', help='Path to the JSON file or directory containing JSON files')
 parser.add_argument('--output', default='logs/assistants', help='Output directory')
 parser.add_argument('--name', default='test_unil_assistant', help='Name of the assistant')
-parser.add_argument('--model', default='gpt-4-1106-preview', help='Name of the model to use')
+parser.add_argument('--model', default=os.getenv("MODEL_TO_USE"), help='Model to use')
 args = parser.parse_args()
-
-load_dotenv()
-os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 
 client = OpenAI()
 
@@ -154,11 +155,18 @@ for question in questions:
     messages_all = thread.get_messages()
     last_message = messages_all.data[0].content[0].text.value
     valeurs = []
-    last_message = json.loads(last_message)
-    print(f"Last message: answer: {last_message['answer']}, valeurs: {last_message['valeurs']}")
+    try:
+        last_message = json.loads(last_message)
+        valeurs = last_message['valeurs']
+        print(f"Last message: answer: {last_message['answer']}, valeurs: {last_message['valeurs']}")
+    except:
+        print(f"Last message: {last_message}")
+        pass
     
     if len(valeurs) == 0:
         valeurs = None
+    else:
+        valeurs = [float(valeur) for valeur in valeurs]
     
     print(f"Question: {question.question}")
     print(f"Valeurs: {valeurs}")
@@ -168,7 +176,7 @@ for question in questions:
     question.set_valid(question.evaluate())
     json_questions['questions'].append(question.to_json())
     
-    time.sleep(3)
+    time.sleep(10)
 
 json_questions['accuracy'] = evaluate_questions(questions)
 

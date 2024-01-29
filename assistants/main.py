@@ -16,16 +16,17 @@ from classes.role import Role
 from func.tool_config import TOOLS
 from func.tool_config import FUNCTIONS_TO_HANDLE
 
+load_dotenv()
+os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
+os.environ["MODEL_TO_USE"] = os.getenv("MODEL_TO_USE")
+
 parser = argparse.ArgumentParser(description='Create assistants on OpenAI.')
 parser.add_argument('--data_path', default='../data/json', help='Path to the JSON file or directory containing JSON files')
-parser.add_argument('--model', default='gpt-4-1106-preview', help='Name of the model to use')
+parser.add_argument('--model', default=os.getenv("MODEL_TO_USE"), help='Model to use')
 parser.add_argument('--name', default='unil_assistant', help='Name of the assistant')
 parser.add_argument('--init_message', default='Bonjour', help='Initial message to send to the assistant')
 parser.add_argument('--output', default='output_images', help='Output directory')
 args = parser.parse_args()
-
-load_dotenv()
-os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 
 def get_answer_json(text):
    print(text['answer'])
