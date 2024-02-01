@@ -3,3 +3,4 @@ openai
 pandas
 # rpy2
 pyreadr
+databases[sqlite]

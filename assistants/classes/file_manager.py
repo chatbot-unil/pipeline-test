@@ -4,7 +4,7 @@ import json
 class FileManager:
     def __init__(self, client):
         self.client = client
-
+        
     def send_file_to_openai(self, data):
         with open(data, 'rb') as file_data:
             file = self.client.files.create(purpose='assistants', file=file_data)

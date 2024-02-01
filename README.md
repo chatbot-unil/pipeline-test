@@ -125,3 +125,5 @@ Pour le finetuning j'ai utilisé le script `finetune.py` qui est exactement le m
 Pour tester le finetuning j'ai utilisé le script `test_finetuning.py`. Il prend en entrée un répertoire contenant les pool ou il peut aussi prendre en entrée un seul fichier de pool de questions. Il va ensuite prendre un nombre de questions passé en paramètre pour les tester dans le modèle finetuner et ensuite comparer les résultats optenu avec les vrai résultats et ensuite crée un fichier de log en json qui contient les résultats de chaque question et un pourcentage de réussite. Pour lancer le script il faut faire `python3 test_finetuning.py --data <path_to_data> --nb_questions <number_of_questions>`
 
 ## Assistant API
+
+Petit problème avec in id not found erreur 400 pour gérer ça je vais essayer de faire une base de données pour tester si l'id existe ou pas dans les données. Pour cela je vais utiliser une base de données sqlite3.

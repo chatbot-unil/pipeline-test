@@ -14,6 +14,8 @@ from assistants.classes.run import Run
 from assistants.classes.file_manager import FileManager
 from assistants.classes.role import Role
 
+from assistants.classes.database import Data
+
 from assistants.func.tool_config import TOOLS
 from assistants.func.tool_config import FUNCTIONS_TO_HANDLE
 
@@ -48,7 +50,6 @@ def save_json_questions(json_questions, path):
 
 load_dotenv()
 os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
-os.environ["MODEL_TO_USE"] = os.getenv("MODEL_TO_USE")
 
 parser = argparse.ArgumentParser(description='Test assistants on OpenAI.')
 parser.add_argument('--data_test', default='data/test/test_data.json', help='Path to the JSON file containing test data')
@@ -61,6 +62,8 @@ args = parser.parse_args()
 client = OpenAI()
 
 file_manager = FileManager(client)
+
+database = Data("assistants/database/database.db", init=True, path_init="assistants/database/init.sql")
 
 # File operations
 data_path = args.data_path
@@ -77,8 +80,11 @@ elif os.path.isdir(data_path):
 file_manager.add_ids_to_proxy_file(proxy_file_path, files)
 print("Files sent to OpenAI: " + str([f"ID: {file.id}, Name: {file.filename}" for file in files]))
 
+[database.add_file(file.id, file.filename, 1) for file in files]
+
 # Upload the proxy file
 proxy_file = file_manager.send_file_to_openai(proxy_file_path)
+database.add_file(proxy_file.id, proxy_file.filename, 3)
 
 questions = prepare_data(open_test_data(args.data_test))
 
@@ -194,3 +200,6 @@ print("Files deleted with ID: " + str([file.id for file in files]))
 
 file_manager.delete_file(proxy_file.id)
 print("Proxy file deleted with ID: " + proxy_file.id)
+
+# Disconnect from the database
+database.disconnect()

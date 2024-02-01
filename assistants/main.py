@@ -31,9 +31,7 @@ args = parser.parse_args()
 def get_answer_json(text):
    print(text['answer'])
 
-
 client = OpenAI()
-
 file_manager = FileManager(client)
 
 # File operations
@@ -48,11 +46,13 @@ if os.path.isfile(data_path) and data_path.endswith(".json"):
 elif os.path.isdir(data_path):
     files = file_manager.send_all_files(data_path)
 
+# Upload the proxy file
 file_manager.add_ids_to_proxy_file(proxy_file_path, files)
 print("Files sent to OpenAI: " + str([f"ID: {file.id}, Name: {file.filename}" for file in files]))
 
-# Upload the proxy file
+# Send the proxy file
 proxy_file = file_manager.send_file_to_openai(proxy_file_path)
+
 
 # Instructions and tools for the assistant
 INSTRUCTIONS = """
