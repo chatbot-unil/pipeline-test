@@ -63,7 +63,7 @@ client = OpenAI()
 
 file_manager = FileManager(client)
 
-database = Data("assistants/database/database.db", init=True, path_init="assistants/database/init.sql")
+database = Data("assistants/database/database.db", path_init="assistants/database/init.sql")
 
 # File operations
 data_path = args.data_path
@@ -84,7 +84,8 @@ print("Files sent to OpenAI: " + str([f"ID: {file.id}, Name: {file.filename}" fo
 
 # Upload the proxy file
 proxy_file = file_manager.send_file_to_openai(proxy_file_path)
-database.add_file(proxy_file.id, proxy_file.filename, 3)
+database.add_root_file(proxy_file.id, proxy_file.filename)
+database.add_file_to_current(proxy_file.id)
 
 questions = prepare_data(open_test_data(args.data_test))
 
