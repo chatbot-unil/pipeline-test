@@ -3,6 +3,7 @@ import argparse
 from dotenv import load_dotenv
 import json
 import subprocess
+import threading
 
 parser = argparse.ArgumentParser(description='Test Pipeline subprocesses')
 parser.add_argument('--pool', default='data/pool_data/pool_1_data.json', help='Path to the JSON file containing test data')
@@ -23,13 +24,16 @@ def create_dataset():
 def test_finetuning():
 	# python3 test_finetuning.py --data data/test/test_data.json
 	subprocess.run(["python3", "test_finetuning.py", "--data", args.dataset])
+	print("Finetuning tested")
 
 def test_assistants(model, name):
 	# python3 test_assistants.py --data_test data/test/test_data.json --name test_unil_assistant --model gpt-4-1106-preview
 	subprocess.run(["python3", "test_assistants.py", "--data_test", args.dataset, "--name", name, "--model", model])
+	print("Assistant {} tested".format(model))
 
 if __name__ == "__main__":
 	create_dataset()
 	test_finetuning()
 	for i in range(len(model)):
-		test_assistants(model[i], name[i])
+		threading.Thread(target=test_assistants, args=(model[i], name[i])).start()
+	print("All assistants tested")
