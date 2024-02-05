@@ -53,8 +53,7 @@ class Run:
                 tools_output.append({
                     "tool_call_id": tool_call.id,
                     "output": result,
-                })
-
+                }) 
         self.client.beta.threads.runs.submit_tool_outputs(
             thread_id=self.thread_id,
             run_id=self.run_id,

@@ -76,7 +76,11 @@ def extract_number_from_string(input_string):
 
 def test_question(question):
 	response = completions(question.question, model_id)
-	question.set_answer(extract_number_from_string(response))
+	print(f"Question: {question.question}")
+	print(f"Valid answer: {question.answer_valid}")
+	answer = extract_number_from_string(response)
+	print(f"Model answer: {answer}")
+	question.set_answer(answer)
 
 def save_json_questions(json_questions, path):
 	with open(path, 'w', encoding='utf-8') as outfile:
@@ -92,25 +96,28 @@ if __name__ == '__main__':
 
 	if os.path.isdir(args.data):
 		data = open_all_question_data(args.data)
+		data_one_tab = process_data_dir(data)
+		random.shuffle(data_one_tab)
+		nb_questions = args.nb_questions
 		
 	elif os.path.isfile(args.data):
 		data = [open_question_data(args.data)]
+		data_one_tab = data[0] 
+		nb_questions = len(data[0])
 
-	data_one_tab = process_data_dir(data)
-	random.shuffle(data_one_tab)	
 	questions = []
 	json_questions = {
 		'model': model_id,
 		'type': "fine-tuning",
 		'epochs': epochs,
 		'date': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
-		'nb_questions': args.nb_questions,
+		'nb_questions': nb_questions,
 		'questions': [],
 		'accuracy': 0
 	}
 
 	if args.question == '':
-		for question in data_one_tab[:args.nb_questions]:
+		for question in data_one_tab[:nb_questions]:
 			questions.append(Question(question['question'], float(question['answer']['value'])))
 
 		for question in questions:
@@ -120,7 +127,7 @@ if __name__ == '__main__':
 
 		json_questions['accuracy'] = evaluate_questions(questions)
 
-		path = f"logs/{model_id}_{datetime.now().strftime('%Y-%m-%d_%H:%M:%S')}.json"
+		path = f"logs/finetunning/{model_id}_{datetime.now().strftime('%Y-%m-%d_%H:%M:%S')}.json"
 
 		save_json_questions(json_questions, path)
 		print("Test finished and saved in " + path)

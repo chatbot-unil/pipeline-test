@@ -1,0 +1,222 @@
+{
+    "model": "gpt-4-turbo-preview",
+    "type": "assistants",
+    "epochs": "not applicable",
+    "date": "2024-02-05 09:07:48",
+    "nb_questions": 20,
+    "questions": [
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de HEC et TOTAL en 2021.",
+            "answer_valid": [
+                3303,
+                17141
+            ],
+            "answer": [
+                3303.0,
+                17141.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FCUE entre 2012 et 2015 ?",
+            "answer_valid": [
+                296.0
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FCUE en 2020 ?",
+            "answer_valid": [
+                524.0
+            ],
+            "answer": [
+                524.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FGSE entre 2012 et 2013 ?",
+            "answer_valid": [
+                21.0
+            ],
+            "answer": [
+                21.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de FDCA et TOTAL en 2011.",
+            "answer_valid": [
+                1638,
+                12242
+            ],
+            "answer": [
+                1638.0,
+                17141.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FDCA en 2011 ?",
+            "answer_valid": [
+                0.7741
+            ],
+            "answer": [
+                0.89
+            ],
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FCUE entre 2012 et 2013 ?",
+            "answer_valid": [
+                111.0
+            ],
+            "answer": [
+                -9.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FCUE en 2018 ?",
+            "answer_valid": [
+                121.0
+            ],
+            "answer": [
+                198.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de SSP en 2021 ?",
+            "answer_valid": [
+                1225.0
+            ],
+            "answer": [
+                1225.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de TOTAL en 2017 ?",
+            "answer_valid": [
+                6841.0
+            ],
+            "answer": [
+                7457.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de FCUE et FDCA en 2020.",
+            "answer_valid": [
+                524,
+                2279
+            ],
+            "answer": [
+                524.0,
+                1600.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de FGSE et Lettres en 2015.",
+            "answer_valid": [
+                852,
+                2233
+            ],
+            "answer": [
+                853.0,
+                3476.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de FDCA et SSP en 2014.",
+            "answer_valid": [
+                1897,
+                2890
+            ],
+            "answer": [
+                1802.0,
+                4232.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FBM en 2012 ?",
+            "answer_valid": [
+                2725.0
+            ],
+            "answer": [
+                1793.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de HEC en 2016 ?",
+            "answer_valid": [
+                0.5874
+            ],
+            "answer": [
+                0.63
+            ],
+            "valid": true
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de FCUE et FDCA en 2021.",
+            "answer_valid": [
+                535,
+                2363
+            ],
+            "answer": [
+                492.0,
+                1649.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de FBM et SSP en 2012.",
+            "answer_valid": [
+                2725,
+                2771
+            ],
+            "answer": [
+                1793.0,
+                4182.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de Lettres entre 2011 et 2012 ?",
+            "answer_valid": [
+                -26.0
+            ],
+            "answer": [
+                267.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FCUE en 2018 ?",
+            "answer_valid": [
+                179.0
+            ],
+            "answer": [
+                325.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FDCA entre 2014 et 2019 ?",
+            "answer_valid": [
+                221.0
+            ],
+            "answer": [
+                -153.0
+            ],
+            "valid": false
+        }
+    ],
+    "accuracy": 0.25
+}

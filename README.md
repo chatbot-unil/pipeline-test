@@ -127,3 +127,11 @@ Pour tester le finetuning j'ai utilisé le script `test_finetuning.py`. Il prend
 ## Assistant API
 
 Petit problème avec in id not found erreur 400 pour gérer ça je vais essayer de faire une base de données pour tester si l'id existe ou pas dans les données. Pour cela je vais utiliser une base de données sqlite3.
+
+J'ai pu crée une fonction qui test si un id est dans les fichier courant mais j'ai pas encore tester a faire.
+
+Tout ne marche pas bien j'ai pu noté une erreur lors ce que une question n'est pas possible il répond bien un tableau vide mais il n'arrive plus a répondres a toutes les questions suivantes. Il faut que je trouve un moyen de gérer ça.
+
+problème de l'erreur 400 peut aussi étre du au multi-function-calling, que je ne gère pas pour le moment.
+
+j'ai noté que avec `gpt-4-turbo-preview` il marche bien cepandant il ne load que 5 fichiers et après ne charge plus rien. Il faut que je trouve un moyen de gérer ça.

@@ -114,3 +114,19 @@ class Data:
             "type_id": type_id,
         }
         return self.fetch_all(query=query, values=values)
+    
+    def is_in_files(self, file_id: any):
+        if isinstance(file_id, list):
+            query = "SELECT * FROM Files WHERE files_id IN ({seq})".format(
+                seq=','.join(['?']*len(file_id)))
+            return True if self.fetch_all(query=query, values=file_id) else False
+        elif isinstance(file_id, str):
+            query = "SELECT * FROM Files WHERE files_id = :file_id"
+            values = {
+                "file_id": file_id,
+            }
+            return True if self.fetch_one(query=query, values=values) else False
+    
+    def clean_current_files(self):
+        query = "DELETE FROM CurrentUseFiles"
+        self.execute(query=query)

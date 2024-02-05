@@ -124,6 +124,8 @@ A noté que passé un certain nombre de fichiers (20) l'assistant ne pourra plus
 
 Encore une fois je ne veux aucun texte en dehors de la réponse, et la réponse doit être structurée comme indiqué ci-dessus et rien de plus aucun autre format ne sera accepté pas de phrases.
 
+TU NE DOIS PAS AJOUTER ```json``` dans ta réponse.
+
 Merci d'avance pour votre aide !
 """
 
@@ -149,7 +151,8 @@ json_questions = {
         'date': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
         'nb_questions': len(questions),
         'questions': [],
-        'accuracy': 0
+        'accuracy': 0,
+        'debug' : 'https://platform.openai.com/playground?mode=assistant&thread=' + thread.thread_id
 }
 # Interaction loop
 for question in questions:
@@ -186,7 +189,10 @@ for question in questions:
 
 json_questions['accuracy'] = evaluate_questions(questions)
 
-path = f"logs/assistants/{datetime.now().strftime('%Y-%m-%d_%H:%M:%S')}.json"
+path = f"logs/assistants/{args.model}/{datetime.now().strftime('%Y-%m-%d_%H:%M:%S')}.json"
+
+if not os.path.exists(os.path.dirname(path)):
+	os.makedirs(os.path.dirname(path))
 
 save_json_questions(json_questions, path)
 

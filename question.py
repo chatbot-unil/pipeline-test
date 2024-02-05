@@ -24,12 +24,15 @@ class Question:
 	def evaluate(self):
 		if self.answer is None:
 			return False
-		ret = True  # Initialize to True
-		for i in range(len(self.answer)):
-			if not (self.answer[i] - 0.05 <= self.answer_valid[i] <= self.answer[i] + 0.05):
-				ret = False  # Set to False if condition not met
-				break  # Exit the loop early if condition not met
-		return ret
+		elif type(self.answer) is float:
+			return self.answer - 0.05 <= self.answer_valid <= self.answer + 0.05
+		else:
+			ret = True 
+			for i in range(len(self.answer)):
+				if not (self.answer[i] - 0.05 <= self.answer_valid[i] <= self.answer[i] + 0.05):
+					ret = False 
+					break
+			return ret
 	
 	def set_valid(self, valid):
 		self.valid = valid

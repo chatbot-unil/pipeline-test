@@ -1,0 +1,108 @@
+{
+    "model": "gpt-4-turbo-preview",
+    "type": "assistants",
+    "epochs": "not applicable",
+    "date": "2024-02-05 11:02:46",
+    "nb_questions": 10,
+    "questions": [
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FGSE entre 2015 et 2016 ?",
+            "answer_valid": [
+                -35.0
+            ],
+            "answer": [
+                35.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FDCA en 2016 ?",
+            "answer_valid": [
+                0.767
+            ],
+            "answer": [
+                0.77
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de SSP en 2015 ?",
+            "answer_valid": [
+                2872.0
+            ],
+            "answer": [
+                2872.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FBM en 2013 ?",
+            "answer_valid": [
+                0.7575
+            ],
+            "answer": [
+                0.76
+            ],
+            "valid": true
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de TOTAL entre 2013 et 2014 ?",
+            "answer_valid": [
+                522.0
+            ],
+            "answer": [
+                522.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de SSP en 2012 ?",
+            "answer_valid": [
+                0.1754
+            ],
+            "answer": [
+                0.18
+            ],
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de HEC en 2013 ?",
+            "answer_valid": [
+                0.5734
+            ],
+            "answer": [
+                0.57
+            ],
+            "valid": true
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de HEC entre 2012 et 2019 ?",
+            "answer_valid": [
+                517.0
+            ],
+            "answer": [
+                743.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FTSR en 2011 ?",
+            "answer_valid": [
+                34.0
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de SSP en 2016 ?",
+            "answer_valid": [
+                531.0
+            ],
+            "answer": [
+                531.0
+            ],
+            "valid": true
+        }
+    ],
+    "accuracy": 0.7
+}
