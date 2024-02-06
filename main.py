@@ -11,8 +11,6 @@ parser.add_argument('--dataset', default='data/test/test_data.json', help='Path 
 parser.add_argument('--nb', default=30, help='Number of questions to test')
 args = parser.parse_args()
 
-# list of models to test for assistant
-
 model = ['gpt-4-1106-preview', 'gpt-4-turbo-preview']
 name = ['test_unil_assistant', 'test_unil_assistant_turbo']
 
@@ -31,9 +29,15 @@ def test_assistants(model, name):
 	subprocess.run(["python3", "test_assistants.py", "--data_test", args.dataset, "--name", name, "--model", model])
 	print("Assistant {} tested".format(model))
 
+def create_plot():
+	# python3 create_box_plot.py --path logs/assistants
+	subprocess.run(["python3", "create_box_plot.py", "--path", "logs"])
+	print("Plots created")
+
 if __name__ == "__main__":
 	create_dataset()
 	test_finetuning()
 	for i in range(len(model)):
 		threading.Thread(target=test_assistants, args=(model[i], name[i])).start()
 	print("All assistants tested")
+	create_plot()

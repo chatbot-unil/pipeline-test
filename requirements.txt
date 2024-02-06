@@ -4,3 +4,4 @@ pandas
 # rpy2
 pyreadr
 databases[sqlite]
+matplotlib
