@@ -7,6 +7,7 @@ import argparse
 
 parser = argparse.ArgumentParser(description='Create box plot')
 parser.add_argument('--path', default='logs', help='Path to the logs folder')
+parser.add_argument('--plots', default='plots', help='Type of boxplot to create')
 args = parser.parse_args()
 
 
@@ -48,7 +49,7 @@ def create_plot_finetuning(finetuning_array):
         ax[model[0]].set_ylabel('Accuracy in %')
         ax[model[0]].set_xlabel('Number of test ' + str(len(dict_finetuning[model[1]])))
     plt.tight_layout(rect=[0, 0.03, 1, 0.95])
-    plt.show()
+    plt.savefig(args.plots + "/finetuning_accuracy.png")
 
 
 def create_plot_assistant(assistant_array):
@@ -70,8 +71,10 @@ def create_plot_assistant(assistant_array):
         ax[model[0]].set_ylabel('Accuracy in %')
         ax[model[0]].set_xlabel('Number of test ' + str(len(dict_assistant[model[1]])))
     plt.tight_layout(rect=[0, 0.03, 1, 0.95])
-    plt.show()
+    plt.savefig(args.plots + "/assistant_accuracy.png")
 
+if not os.path.exists(args.plots):
+	os.makedirs(args.plots)
 finetuning_array, assistant_array = get_all_logs(args.path)
 create_plot_finetuning(finetuning_array)
 create_plot_assistant(assistant_array)
