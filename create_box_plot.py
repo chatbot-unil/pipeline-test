@@ -45,7 +45,8 @@ def create_plot_finetuning(finetuning_array):
     for model in enumerate(dict_finetuning):
         ax[model[0]].boxplot(dict_finetuning[model[1]])
         ax[model[0]].set_title(model[1])
-        ax[model[0]].set_ylabel('Accuracy')
+        ax[model[0]].set_ylabel('Accuracy in %')
+        ax[model[0]].set_xlabel('Number of test ' + str(len(dict_finetuning[model[1]])))
     plt.tight_layout(rect=[0, 0.03, 1, 0.95])
     plt.show()
 
@@ -66,11 +67,11 @@ def create_plot_assistant(assistant_array):
     for model in enumerate(dict_assistant):
         ax[model[0]].boxplot(dict_assistant[model[1]])
         ax[model[0]].set_title(model[1])
-        ax[model[0]].set_ylabel('Accuracy')
+        ax[model[0]].set_ylabel('Accuracy in %')
+        ax[model[0]].set_xlabel('Number of test ' + str(len(dict_assistant[model[1]])))
     plt.tight_layout(rect=[0, 0.03, 1, 0.95])
     plt.show()
 
 finetuning_array, assistant_array = get_all_logs(args.path)
 create_plot_finetuning(finetuning_array)
 create_plot_assistant(assistant_array)
-
