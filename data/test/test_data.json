@@ -1,62 +1,62 @@
 [
     {
-        "question": "Quelle était la proportion d'étudiants internationaux à la faculté de Lettres en 2016 ?",
+        "question": "Combien d'étudiants étaient inscrits à la faculté de FTSR en 2014 ?",
         "answer": {
-            "value": 0.2657
+            "value": 101
         }
     },
     {
-        "question": "Combien d'étudiants étaient inscrits à la faculté de FBM en 2011 ?",
+        "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FTSR en 2017 ?",
         "answer": {
-            "value": 2604
+            "value": 53
         }
     },
     {
-        "question": "Combien d'étudiants étaient inscrits à la faculté de FTSR en 2012 ?",
+        "question": "Combien d'étudiants étaient inscrits à la faculté de HEC en 2012 ?",
         "answer": {
-            "value": 78
+            "value": 2587
         }
     },
     {
-        "question": "Combien d'étudiants internationaux il y avait à la faculté de SSP en 2012 ?",
+        "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FCUE en 2014 ?",
         "answer": {
-            "value": 486
+            "value": 137
         }
     },
     {
-        "question": "Combien d'étudiants féminin étaient inscrits à la faculté de HEC en 2017 ?",
+        "question": "Combien d'étudiants internationaux il y avait à la faculté de TOTAL en 2011 ?",
         "answer": {
-            "value": 1057
+            "value": 2967
         }
     },
     {
-        "question": "Combien d'étudiants tous étaient inscrits à la faculté de FCUE en 2020 ?",
+        "question": "Combien d'étudiants étaient inscrits à la faculté de Lettres en 2017 ?",
         "answer": {
-            "value": 524
+            "value": 2229
         }
     },
     {
-        "question": "Quelle était la proportion d'étudiants internationaux à la faculté de SSP en 2019 ?",
+        "question": "Combien d'étudiants internationaux il y avait à la faculté de FCUE en 2017 ?",
         "answer": {
-            "value": 0.1748
+            "value": 126
         }
     },
     {
-        "question": "Quelle était la proportion d'étudiants suisses à la faculté de TOTAL en 2020 ?",
+        "question": "Combien d'étudiants internationaux il y avait à la faculté de FDCA en 2018 ?",
         "answer": {
-            "value": 0.7452
+            "value": 482
         }
     },
     {
-        "question": "Combien d'étudiants masculin étaient inscrits à la faculté de TOTAL en 2016 ?",
+        "question": "Combien d'étudiants étaient inscrits à la faculté de SSP en 2019 ?",
         "answer": {
-            "value": 6648
+            "value": 3226
         }
     },
     {
-        "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FGSE en 2017 ?",
+        "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FCUE en 2016 ?",
         "answer": {
-            "value": 512
+            "value": 175
         }
     }
 ]

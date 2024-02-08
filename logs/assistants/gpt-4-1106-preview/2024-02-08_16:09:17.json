@@ -1,0 +1,111 @@
+{
+    "model": "gpt-4-1106-preview",
+    "type": "assistants",
+    "epochs": "not applicable",
+    "date": "2024-02-08 16:03:53",
+    "nb_questions": 10,
+    "questions": [
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FTSR en 2014 ?",
+            "answer_valid": [
+                101.0
+            ],
+            "answer": [
+                101.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FTSR en 2017 ?",
+            "answer_valid": [
+                53.0
+            ],
+            "answer": [
+                53.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de HEC en 2012 ?",
+            "answer_valid": [
+                2587.0
+            ],
+            "answer": [
+                2587.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FCUE en 2014 ?",
+            "answer_valid": [
+                137.0
+            ],
+            "answer": [
+                137.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de TOTAL en 2011 ?",
+            "answer_valid": [
+                2967.0
+            ],
+            "answer": [
+                2967.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de Lettres en 2017 ?",
+            "answer_valid": [
+                2229.0
+            ],
+            "answer": [
+                2229.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FCUE en 2017 ?",
+            "answer_valid": [
+                126.0
+            ],
+            "answer": [
+                126.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FDCA en 2018 ?",
+            "answer_valid": [
+                482.0
+            ],
+            "answer": [
+                482.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de SSP en 2019 ?",
+            "answer_valid": [
+                3226.0
+            ],
+            "answer": [
+                3226.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FCUE en 2016 ?",
+            "answer_valid": [
+                175.0
+            ],
+            "answer": [
+                175.0
+            ],
+            "valid": true
+        }
+    ],
+    "accuracy": 1.0,
+    "debug": "https://platform.openai.com/playground?mode=assistant&thread=thread_LwB1OFwykiNhKWfdKCo7LQYe"
+}

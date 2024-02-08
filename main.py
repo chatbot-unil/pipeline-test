@@ -8,7 +8,7 @@ import threading
 parser = argparse.ArgumentParser(description='Test Pipeline subprocesses')
 parser.add_argument('--pool', default='data/pool_data/pool_1_data.json', help='Path to the JSON file containing test data')
 parser.add_argument('--dataset', default='data/test/test_data.json', help='Path to the JSON file containing test data')
-parser.add_argument('--nb', default=30, help='Number of questions to test')
+parser.add_argument('--nb', default=10, help='Number of questions to test')
 args = parser.parse_args()
 
 model = ['gpt-4-1106-preview', 'gpt-4-turbo-preview']
@@ -38,6 +38,6 @@ if __name__ == "__main__":
 	create_dataset()
 	test_finetuning()
 	for i in range(len(model)):
-		threading.Thread(target=test_assistants, args=(model[i], name[i])).start()
+		test_assistants(model[i], name[i])
 	print("All assistants tested")
 	create_plot()
