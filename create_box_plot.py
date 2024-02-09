@@ -21,7 +21,7 @@ def get_all_logs(path):
                         data = f.read()
                         data = json.loads(data)
                         finetuning_array.append(data)
-        elif "assistant" in root and "old" not in root:
+        elif "assistant" in root:
             for file in files:
                 with open(root + "/" + file, "r") as f:
                     data = f.read()

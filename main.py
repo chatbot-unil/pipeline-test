@@ -4,11 +4,13 @@ from dotenv import load_dotenv
 import json
 import subprocess
 import threading
+import time
 
 parser = argparse.ArgumentParser(description='Test Pipeline subprocesses')
 parser.add_argument('--pool', default='data/pool_data/pool_1_data.json', help='Path to the JSON file containing test data')
 parser.add_argument('--dataset', default='data/test/test_data.json', help='Path to the JSON file containing test data')
 parser.add_argument('--nb', default=10, help='Number of questions to test')
+parser.add_argument('--nb_times', default=1, help='Number of times to test the pipeline')
 args = parser.parse_args()
 
 model = ['gpt-4-1106-preview', 'gpt-4-turbo-preview']
@@ -35,9 +37,12 @@ def create_plot():
 	print("Plots created")
 
 if __name__ == "__main__":
-	create_dataset()
-	test_finetuning()
-	for i in range(len(model)):
-		test_assistants(model[i], name[i])
-	print("All assistants tested")
-	create_plot()
+	nb_times = int(args.nb_times)
+	for i in range(nb_times):
+		create_dataset()
+		test_finetuning()
+		for i in range(len(model)):
+			test_assistants(model[i], name[i])
+		print("All assistants tested")
+		time.sleep(5)
+		create_plot()
