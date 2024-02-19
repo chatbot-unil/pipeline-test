@@ -124,6 +124,8 @@ Pour le finetuning j'ai utilisé le script `finetune.py` qui est exactement le m
 
 Pour tester le finetuning j'ai utilisé le script `test_finetuning.py`. Il prend en entrée un répertoire contenant les pool ou il peut aussi prendre en entrée un seul fichier de pool de questions. Il va ensuite prendre un nombre de questions passé en paramètre pour les tester dans le modèle finetuner et ensuite comparer les résultats optenu avec les vrai résultats et ensuite crée un fichier de log en json qui contient les résultats de chaque question et un pourcentage de réussite. Pour lancer le script il faut faire `python3 test_finetuning.py --data <path_to_data> --nb_questions <number_of_questions>`
 
+## Test assistant api
+
 ## Assistant API
 
 Petit problème avec in id not found erreur 400 pour gérer ça je vais essayer de faire une base de données pour tester si l'id existe ou pas dans les données. Pour cela je vais utiliser une base de données sqlite3.
@@ -135,3 +137,5 @@ Tout ne marche pas bien j'ai pu noté une erreur lors ce que une question n'est 
 problème de l'erreur 400 peut aussi étre du au multi-function-calling, que je ne gère pas pour le moment.
 
 j'ai noté que avec `gpt-4-turbo-preview` il marche bien cepandant il ne load que 5 fichiers et après ne charge plus rien. Il faut que je trouve un moyen de gérer ça.
+
+### SQLite

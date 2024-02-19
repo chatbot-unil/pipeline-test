@@ -15,7 +15,6 @@ load_dotenv()
 
 os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 
-# Load the model
 client = OpenAI()
 
 print("Training file: " + args.td)
