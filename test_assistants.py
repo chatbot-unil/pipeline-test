@@ -57,6 +57,7 @@ parser.add_argument('--data_path', default='data/json', help='Path to the JSON f
 parser.add_argument('--output', default='logs/assistants', help='Output directory')
 parser.add_argument('--name', default='test_unil_assistant', help='Name of the assistant')
 parser.add_argument('--model', default=os.getenv("MODEL_TO_USE"), help='Model to use')
+parser.add_argument('--pool_type', default='pool_1', help='Type of pool')
 args = parser.parse_args()
 
 client = OpenAI()
@@ -150,6 +151,7 @@ json_questions = {
         'epochs': "not applicable",
         'date': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
         'nb_questions': len(questions),
+        'pool_type': args.pool_type,
         'questions': [],
         'accuracy': 0,
         'debug' : 'https://platform.openai.com/playground?mode=assistant&thread=' + thread.thread_id
@@ -189,7 +191,9 @@ for question in questions:
 
 json_questions['accuracy'] = evaluate_questions(questions)
 
-path = f"logs/assistants/{args.model}/{datetime.now().strftime('%Y-%m-%d_%H:%M:%S')}.json"
+# path = f"logs/assistants/{args.model}/{datetime.now().strftime('%Y-%m-%d_%H:%M:%S')}.json"
+
+path = f"logs/assistants/{args.pool_type}/{args.model}/{datetime.now().strftime('%Y-%m-%d_%H:%M:%S')}.json"
 
 if not os.path.exists(os.path.dirname(path)):
 	os.makedirs(os.path.dirname(path))

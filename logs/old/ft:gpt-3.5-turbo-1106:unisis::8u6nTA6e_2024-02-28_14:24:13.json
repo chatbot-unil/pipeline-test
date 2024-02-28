@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8u6nTA6e",
+    "type": "fine-tuning",
+    "epochs": 25,
+    "date": "2024-02-28 14:24:07",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de TOTAL en 2012 ?",
+            "answer_valid": 0.2538,
+            "answer": 0.256,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FCUE en 2017 ?",
+            "answer_valid": 0.4286,
+            "answer": 0.4916,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FCUE en 2013 ?",
+            "answer_valid": 111.0,
+            "answer": 322.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FTSR en 2017 ?",
+            "answer_valid": 120.0,
+            "answer": 120.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FBM en 2017 ?",
+            "answer_valid": 3368.0,
+            "answer": 3300.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FGSE en 2017 ?",
+            "answer_valid": 879.0,
+            "answer": 858.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de HEC en 2015 ?",
+            "answer_valid": 0.5879,
+            "answer": 0.5734,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FCUE en 2021 ?",
+            "answer_valid": 535.0,
+            "answer": 330.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de Lettres en 2020 ?",
+            "answer_valid": 541.0,
+            "answer": 602.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FBM en 2015 ?",
+            "answer_valid": 750.0,
+            "answer": 816.0,
+            "valid": false
+        }
+    ],
+    "accuracy": 0.3
+}

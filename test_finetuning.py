@@ -14,6 +14,7 @@ parser.add_argument('--model', type=str, default='', help='Model to test')
 parser.add_argument('--data', type=str, default='data/pool_data', help='Path to question data')
 parser.add_argument('--question', type=str, default='', help='Question to test')
 parser.add_argument('--nb_questions', type=int, default=10, help='Number of questions to test')
+parser.add_argument('--pool_type', type=str, default='pool_1', help='Type of pool')
 args = parser.parse_args()
 
 load_dotenv()
@@ -112,6 +113,7 @@ if __name__ == '__main__':
 		'epochs': epochs,
 		'date': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
 		'nb_questions': nb_questions,
+		'pool_type': args.pool_type,
 		'questions': [],
 		'accuracy': 0
 	}
@@ -127,7 +129,10 @@ if __name__ == '__main__':
 
 		json_questions['accuracy'] = evaluate_questions(questions)
 
-		path = f"logs/finetunning/{model_id}_{datetime.now().strftime('%Y-%m-%d_%H:%M:%S')}.json"
+		path = f"logs/finetunning/{args.pool_type}/{model_id}_{datetime.now().strftime('%Y-%m-%d_%H:%M:%S')}.json"
+		# path = f"logs/finetunning/{model_id}_{datetime.now().strftime('%Y-%m-%d_%H:%M:%S')}.json"
+		if not os.path.exists(os.path.dirname(path)):
+			os.makedirs(os.path.dirname(path))
 
 		save_json_questions(json_questions, path)
 		print("Test finished and saved in " + path)
