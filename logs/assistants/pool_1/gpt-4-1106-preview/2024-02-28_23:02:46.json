@@ -1,0 +1,112 @@
+{
+    "model": "gpt-4-1106-preview",
+    "type": "assistants",
+    "epochs": "not applicable",
+    "date": "2024-02-28 22:58:24",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de FDCA en 2011 ?",
+            "answer_valid": [
+                1268.0
+            ],
+            "answer": [
+                1268.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de HEC en 2012 ?",
+            "answer_valid": [
+                1673.0
+            ],
+            "answer": [
+                1673.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FDCA en 2017 ?",
+            "answer_valid": [
+                1204.0
+            ],
+            "answer": [
+                1204.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de TOTAL en 2017 ?",
+            "answer_valid": [
+                0.2666
+            ],
+            "answer": [
+                0.4033920851346857
+            ],
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FTSR en 2019 ?",
+            "answer_valid": [
+                0.6729
+            ],
+            "answer": [
+                0.6728971962616822
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FCUE en 2015 ?",
+            "answer_valid": [
+                296.0
+            ],
+            "answer": [
+                296.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FDCA en 2019 ?",
+            "answer_valid": [
+                791.0
+            ],
+            "answer": [
+                791.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de FDCA en 2021 ?",
+            "answer_valid": [
+                1794.0
+            ],
+            "answer": [
+                1794.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de Lettres en 2021 ?",
+            "answer_valid": [
+                1723.0
+            ],
+            "answer": [
+                1723.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FDCA en 2016 ?",
+            "answer_valid": [
+                468.0
+            ],
+            "answer": [
+                468.0
+            ],
+            "valid": true
+        }
+    ],
+    "accuracy": 0.9,
+    "debug": "https://platform.openai.com/playground?mode=assistant&thread=thread_bFaCalLMtzJmRpQYRThsTIrd"
+}

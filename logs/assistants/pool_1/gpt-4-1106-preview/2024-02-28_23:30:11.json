@@ -1,0 +1,112 @@
+{
+    "model": "gpt-4-1106-preview",
+    "type": "assistants",
+    "epochs": "not applicable",
+    "date": "2024-02-28 23:25:16",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de FTSR en 2020 ?",
+            "answer_valid": [
+                65.0
+            ],
+            "answer": [
+                65.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FTSR en 2018 ?",
+            "answer_valid": [
+                32.0
+            ],
+            "answer": [
+                32.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de HEC en 2019 ?",
+            "answer_valid": [
+                0.3808
+            ],
+            "answer": [
+                0.38
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FCUE en 2013 ?",
+            "answer_valid": [
+                111.0
+            ],
+            "answer": [
+                111.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de SSP en 2016 ?",
+            "answer_valid": [
+                0.1811
+            ],
+            "answer": [
+                0.18
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FGSE en 2017 ?",
+            "answer_valid": [
+                512.0
+            ],
+            "answer": [
+                512.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de TOTAL en 2017 ?",
+            "answer_valid": [
+                0.7334
+            ],
+            "answer": [
+                0.73
+            ],
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de HEC en 2012 ?",
+            "answer_valid": [
+                0.4005
+            ],
+            "answer": [
+                0.4
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FGSE en 2014 ?",
+            "answer_valid": [
+                858.0
+            ],
+            "answer": [
+                858.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de TOTAL en 2017 ?",
+            "answer_valid": [
+                14976.0
+            ],
+            "answer": [
+                14976.0
+            ],
+            "valid": true
+        }
+    ],
+    "accuracy": 1.0,
+    "debug": "https://platform.openai.com/playground?mode=assistant&thread=thread_24DKAYiuNn4Zrzg4aNAzPenv"
+}

@@ -17,8 +17,10 @@ def group_data_by_pool_type(data):
         if d['pool_type'] not in dict_data:
             dict_data[d['pool_type']] = {}
         if d['model'] not in dict_data[d['pool_type']]:
-            dict_data[d['pool_type']][d['model']] = []
-        dict_data[d['pool_type']][d['model']].append(d['accuracy'] * 100)
+            dict_data[d['pool_type']][d['model']] = { "epochs": [], "accuracy": []}
+        if d['epochs'] is not None:
+            dict_data[d['pool_type']][d['model']]['epochs'].append(d['epochs'])
+        dict_data[d['pool_type']][d['model']]['accuracy'].append(d['accuracy'] * 100)
     return dict_data
 
 def get_all_logs(path):
@@ -42,16 +44,19 @@ def get_all_logs(path):
     
 def create_plot_finetuning(finetuning_array):
     data = group_data_by_pool_type(finetuning_array)
+    print(data)
     num_subplots = len(data[args.pool_type])
     fig, ax = plt.subplots(1, num_subplots,  figsize=(num_subplots * 4, 5))
     fig.suptitle('Finetuning accuracy')
     if num_subplots == 1:
         ax = [ax]
     for model in enumerate(data[args.pool_type]):
-        ax[model[0]].boxplot(data[args.pool_type][model[1]])
-        ax[model[0]].set_title(model[1] + "\n" + args.pool_type)
+        ax[model[0]].boxplot(data[args.pool_type][model[1]]['accuracy'])
+        ax[model[0]].set_title(f"{args.pool_type} \nepochs: {data[args.pool_type][model[1]]['epochs'][0]}")
         ax[model[0]].set_ylabel('Accuracy in %')
-        ax[model[0]].set_xlabel('Number of test ' + str(len(data[args.pool_type][model[1]])))
+        ax[model[0]].set_xlabel('Number of test ' + str(len(data[args.pool_type][model[1]]['accuracy'])))
+        ax[model[0]].set_ylim(0, 100)
+        ax[model[0]].set_xticklabels([model[1]])
     plt.tight_layout(rect=[0, 0.03, 1, 0.95])
     path = f"{args.plots}/{args.pool_type}/finetuning_accuracy.png"
     if not os.path.exists(f"{args.plots}/{args.pool_type}"):
@@ -60,16 +65,19 @@ def create_plot_finetuning(finetuning_array):
 
 def create_plot_assistant(assistant_array):
     data = group_data_by_pool_type(assistant_array)
+    print(data)
     num_subplots = len(data[args.pool_type])
     fig, ax = plt.subplots(1, num_subplots,  figsize=(num_subplots * 4, 5))
     fig.suptitle('Assistant accuracy')
     if num_subplots == 1:
         ax = [ax]
     for model in enumerate(data[args.pool_type]):
-        ax[model[0]].boxplot(data[args.pool_type][model[1]])
-        ax[model[0]].set_title(model[1] + "\n" + args.pool_type)
+        ax[model[0]].boxplot(data[args.pool_type][model[1]]['accuracy'])
+        ax[model[0]].set_title(args.pool_type)
         ax[model[0]].set_ylabel('Accuracy in %')
-        ax[model[0]].set_xlabel('Number of test ' + str(len(data[args.pool_type][model[1]])))
+        ax[model[0]].set_xlabel('Number of test ' + str(len(data[args.pool_type][model[1]]['accuracy'])))
+        ax[model[0]].set_ylim(0, 100)
+        ax[model[0]].set_xticklabels([model[1]])
     plt.tight_layout(rect=[0, 0.03, 1, 0.95])
     path = f"{args.plots}/{args.pool_type}/assistant_accuracy.png"
     if not os.path.exists(f"{args.plots}/{args.pool_type}"):

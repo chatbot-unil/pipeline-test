@@ -129,7 +129,7 @@ if __name__ == '__main__':
 
 		json_questions['accuracy'] = evaluate_questions(questions)
 
-		path = f"logs/finetunning/{args.pool_type}/{model_id}_{datetime.now().strftime('%Y-%m-%d_%H:%M:%S')}.json"
+		path = f"logs/finetunning/{args.pool_type}/{model_id}/{datetime.now().strftime('%Y-%m-%d_%H:%M:%S')}.json"
 		# path = f"logs/finetunning/{model_id}_{datetime.now().strftime('%Y-%m-%d_%H:%M:%S')}.json"
 		if not os.path.exists(os.path.dirname(path)):
 			os.makedirs(os.path.dirname(path))

@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8u6nTA6e",
+    "type": "fine-tuning",
+    "epochs": 25,
+    "date": "2024-02-28 22:02:25",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FGSE en 2016 ?",
+            "answer_valid": 0.7919,
+            "answer": 0.8152,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FGSE en 2020 ?",
+            "answer_valid": 947.0,
+            "answer": 1018.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FTSR en 2020 ?",
+            "answer_valid": 52.0,
+            "answer": 39.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FBM en 2014 ?",
+            "answer_valid": 2969.0,
+            "answer": 2850.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FDCA en 2019 ?",
+            "answer_valid": 2118.0,
+            "answer": 2029.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FBM en 2014 ?",
+            "answer_valid": 2969.0,
+            "answer": 2904.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FDCA en 2017 ?",
+            "answer_valid": 0.7682,
+            "answer": 0.7624,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de TOTAL en 2020 ?",
+            "answer_valid": 7161.0,
+            "answer": 6971.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de Lettres en 2012 ?",
+            "answer_valid": 1512.0,
+            "answer": 1792.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FGSE en 2017 ?",
+            "answer_valid": 512.0,
+            "answer": 510.0,
+            "valid": false
+        }
+    ],
+    "accuracy": 0.2
+}
