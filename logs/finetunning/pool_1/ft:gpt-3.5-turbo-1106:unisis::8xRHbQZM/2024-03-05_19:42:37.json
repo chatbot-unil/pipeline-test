@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8xRHbQZM",
+    "type": "fine-tuning",
+    "epochs": 45,
+    "date": "2024-03-05 19:42:31",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FBM en 2018 ?",
+            "answer_valid": 1369.0,
+            "answer": 1209.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de SSP en 2014 ?",
+            "answer_valid": 2362.0,
+            "answer": 2362.0,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FDCA en 2019 ?",
+            "answer_valid": 0.2332,
+            "answer": 0.2332,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de SSP en 2011 ?",
+            "answer_valid": 0.8368,
+            "answer": 0.8368,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de SSP en 2015 ?",
+            "answer_valid": 0.1751,
+            "answer": 0.1752,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de SSP en 2014 ?",
+            "answer_valid": 0.8173,
+            "answer": 0.8173,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de Lettres en 2018 ?",
+            "answer_valid": 2235.0,
+            "answer": 2235.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de TOTAL en 2021 ?",
+            "answer_valid": 12747.0,
+            "answer": 10608.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de Lettres en 2021 ?",
+            "answer_valid": 1723.0,
+            "answer": 1723.0,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FDCA en 2013 ?",
+            "answer_valid": 0.7659,
+            "answer": 0.7881,
+            "valid": true
+        }
+    ],
+    "accuracy": 0.8
+}

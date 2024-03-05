@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8yJtWyDx",
+    "type": "fine-tuning",
+    "epochs": 8,
+    "date": "2024-03-05 19:21:29",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FTSR en 2020 ?",
+            "answer_valid": 33.0,
+            "answer": 25.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FTSR en 2013 ?",
+            "answer_valid": 89.0,
+            "answer": 103.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FDCA en 2012 ?",
+            "answer_valid": 388.0,
+            "answer": 468.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FDCA en 2017 ?",
+            "answer_valid": 0.7682,
+            "answer": 0.7664,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FTSR en 2017 ?",
+            "answer_valid": 120.0,
+            "answer": 103.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FGSE en 2018 ?",
+            "answer_valid": 188.0,
+            "answer": 198.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FCUE en 2015 ?",
+            "answer_valid": 296.0,
+            "answer": 296.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FTSR en 2020 ?",
+            "answer_valid": 98.0,
+            "answer": 111.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de FBM en 2020 ?",
+            "answer_valid": 3004.0,
+            "answer": 2755.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de SSP en 2012 ?",
+            "answer_valid": 0.8246,
+            "answer": 0.8271,
+            "valid": true
+        }
+    ],
+    "accuracy": 0.3
+}

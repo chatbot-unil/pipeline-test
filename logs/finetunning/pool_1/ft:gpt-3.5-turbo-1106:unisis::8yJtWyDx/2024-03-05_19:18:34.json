@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8yJtWyDx",
+    "type": "fine-tuning",
+    "epochs": 8,
+    "date": "2024-03-05 19:18:29",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de FGSE en 2015 ?",
+            "answer_valid": 686.0,
+            "answer": 646.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FCUE en 2017 ?",
+            "answer_valid": 0.5714,
+            "answer": 0.5878,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FTSR en 2014 ?",
+            "answer_valid": 101.0,
+            "answer": 103.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de TOTAL en 2012 ?",
+            "answer_valid": 12955.0,
+            "answer": 13487.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FTSR en 2015 ?",
+            "answer_valid": 55.0,
+            "answer": 33.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de Lettres en 2014 ?",
+            "answer_valid": 2227.0,
+            "answer": 2311.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FBM en 2021 ?",
+            "answer_valid": 4108.0,
+            "answer": 4248.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FTSR en 2021 ?",
+            "answer_valid": 41.0,
+            "answer": 30.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FBM en 2016 ?",
+            "answer_valid": 1911.0,
+            "answer": 1912.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FBM en 2011 ?",
+            "answer_valid": 2604.0,
+            "answer": 2488.0,
+            "valid": false
+        }
+    ],
+    "accuracy": 0.1
+}

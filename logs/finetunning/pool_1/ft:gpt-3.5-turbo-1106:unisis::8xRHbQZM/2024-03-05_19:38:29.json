@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8xRHbQZM",
+    "type": "fine-tuning",
+    "epochs": 45,
+    "date": "2024-03-05 19:38:25",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de SSP en 2016 ?",
+            "answer_valid": 2401.0,
+            "answer": 2632.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FBM en 2019 ?",
+            "answer_valid": 1438.0,
+            "answer": 1365.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de SSP en 2012 ?",
+            "answer_valid": 2285.0,
+            "answer": 2285.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de FBM en 2021 ?",
+            "answer_valid": 3069.0,
+            "answer": 3069.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de Lettres en 2014 ?",
+            "answer_valid": 2227.0,
+            "answer": 2191.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de HEC en 2012 ?",
+            "answer_valid": 1551.0,
+            "answer": 1413.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FGSE en 2015 ?",
+            "answer_valid": 852.0,
+            "answer": 852.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de SSP en 2011 ?",
+            "answer_valid": 2549.0,
+            "answer": 2549.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FCUE en 2020 ?",
+            "answer_valid": 186.0,
+            "answer": 125.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de HEC en 2020 ?",
+            "answer_valid": 2065.0,
+            "answer": 2065.0,
+            "valid": true
+        }
+    ],
+    "accuracy": 0.5
+}

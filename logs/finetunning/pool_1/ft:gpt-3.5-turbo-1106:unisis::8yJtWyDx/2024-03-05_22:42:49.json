@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8yJtWyDx",
+    "type": "fine-tuning",
+    "epochs": 8,
+    "date": "2024-03-05 22:42:43",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de TOTAL en 2014 ?",
+            "answer_valid": 0.7318,
+            "answer": 0.7622,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de Lettres en 2013 ?",
+            "answer_valid": 1476,
+            "answer": 1542.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FBM en 2015 ?",
+            "answer_valid": 1735,
+            "answer": 1752.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FCUE en 2018 ?",
+            "answer_valid": 0.6242,
+            "answer": 0.5878,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FCUE en 2021 ?",
+            "answer_valid": 158,
+            "answer": 176.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de SSP en 2020 ?",
+            "answer_valid": 0.8278,
+            "answer": 0.8248,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de TOTAL en 2014 ?",
+            "answer_valid": 14165,
+            "answer": 14289.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de Lettres en 2013 ?",
+            "answer_valid": 2272,
+            "answer": 2311.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FGSE en 2017 ?",
+            "answer_valid": 0.7861,
+            "answer": 0.8152,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FDCA en 2019 ?",
+            "answer_valid": 2118,
+            "answer": 1993.0,
+            "valid": false
+        }
+    ],
+    "accuracy": 0.4
+}

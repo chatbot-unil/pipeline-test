@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8yJtWyDx",
+    "type": "fine-tuning",
+    "epochs": 8,
+    "date": "2024-03-05 22:39:58",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FDCA en 2017 ?",
+            "answer_valid": 789,
+            "answer": 782.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FTSR en 2013 ?",
+            "answer_valid": 52,
+            "answer": 35.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FGSE en 2013 ?",
+            "answer_valid": 143,
+            "answer": 174.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de SSP en 2012 ?",
+            "answer_valid": 1726,
+            "answer": 1622.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de SSP en 2015 ?",
+            "answer_valid": 0.1751,
+            "answer": 0.1752,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de FCUE en 2021 ?",
+            "answer_valid": 330,
+            "answer": 245.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FCUE en 2015 ?",
+            "answer_valid": 0.3784,
+            "answer": 0.3684,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FTSR en 2018 ?",
+            "answer_valid": 45,
+            "answer": 33.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FGSE en 2013 ?",
+            "answer_valid": 813,
+            "answer": 792.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de HEC en 2018 ?",
+            "answer_valid": 0.3777,
+            "answer": 0.4132,
+            "valid": true
+        }
+    ],
+    "accuracy": 0.3
+}

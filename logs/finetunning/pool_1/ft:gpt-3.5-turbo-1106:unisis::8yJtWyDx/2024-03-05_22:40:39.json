@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8yJtWyDx",
+    "type": "fine-tuning",
+    "epochs": 8,
+    "date": "2024-03-05 22:40:34",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de HEC en 2012 ?",
+            "answer_valid": 1673,
+            "answer": 1588.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de TOTAL en 2013 ?",
+            "answer_valid": 9986,
+            "answer": 10289.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de HEC en 2017 ?",
+            "answer_valid": 1794,
+            "answer": 1801.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FDCA en 2013 ?",
+            "answer_valid": 1773,
+            "answer": 1773.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de Lettres en 2012 ?",
+            "answer_valid": 2291,
+            "answer": 2311.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FGSE en 2021 ?",
+            "answer_valid": 915,
+            "answer": 946.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FDCA en 2020 ?",
+            "answer_valid": 0.7661,
+            "answer": 0.7792,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de SSP en 2016 ?",
+            "answer_valid": 1134,
+            "answer": 1204.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FBM en 2013 ?",
+            "answer_valid": 1209,
+            "answer": 1209.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de HEC en 2013 ?",
+            "answer_valid": 997,
+            "answer": 1201.0,
+            "valid": false
+        }
+    ],
+    "accuracy": 0.3
+}

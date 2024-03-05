@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8yJtWyDx",
+    "type": "fine-tuning",
+    "epochs": 8,
+    "date": "2024-03-05 18:56:28",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de TOTAL en 2016 ?",
+            "answer_valid": 10560.0,
+            "answer": 10989.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FDCA en 2019 ?",
+            "answer_valid": 1327.0,
+            "answer": 1208.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FDCA en 2020 ?",
+            "answer_valid": 0.7661,
+            "answer": 0.7791,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de Lettres en 2018 ?",
+            "answer_valid": 1681.0,
+            "answer": 1752.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FGSE en 2019 ?",
+            "answer_valid": 912.0,
+            "answer": 892.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FBM en 2011 ?",
+            "answer_valid": 2604.0,
+            "answer": 2488.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FTSR en 2013 ?",
+            "answer_valid": 0.3146,
+            "answer": 0.3684,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de Lettres en 2012 ?",
+            "answer_valid": 0.7473,
+            "answer": 0.7666,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FTSR en 2018 ?",
+            "answer_valid": 32.0,
+            "answer": 33.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FDCA en 2019 ?",
+            "answer_valid": 0.7668,
+            "answer": 0.7662,
+            "valid": true
+        }
+    ],
+    "accuracy": 0.3
+}

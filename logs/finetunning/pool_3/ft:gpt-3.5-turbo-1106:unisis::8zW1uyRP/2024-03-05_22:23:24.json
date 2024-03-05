@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8zW1uyRP",
+    "type": "fine-tuning",
+    "epochs": 45,
+    "date": "2024-03-05 22:23:20",
+    "nb_questions": 10,
+    "pool_type": "pool_3",
+    "questions": [
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FBM entre 2013 et 2016 ?",
+            "answer_valid": 366,
+            "answer": 366.0,
+            "valid": true
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FGSE entre 2013 et 2018 ?",
+            "answer_valid": 79,
+            "answer": 73.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FBM entre 2018 et 2020 ?",
+            "answer_valid": 502,
+            "answer": 295.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de HEC entre 2016 et 2021 ?",
+            "answer_valid": 404,
+            "answer": 404.0,
+            "valid": true
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de Lettres entre 2012 et 2018 ?",
+            "answer_valid": -56,
+            "answer": -39.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FBM entre 2014 et 2018 ?",
+            "answer_valid": 512,
+            "answer": 514.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FGSE entre 2017 et 2021 ?",
+            "answer_valid": 36,
+            "answer": 36.0,
+            "valid": true
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de TOTAL entre 2015 et 2020 ?",
+            "answer_valid": 2730,
+            "answer": 2730.0,
+            "valid": true
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de SSP entre 2012 et 2015 ?",
+            "answer_valid": 101,
+            "answer": 99.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FDCA entre 2013 et 2018 ?",
+            "answer_valid": 256,
+            "answer": 256.0,
+            "valid": true
+        }
+    ],
+    "accuracy": 0.5
+}

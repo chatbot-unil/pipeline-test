@@ -1,0 +1,112 @@
+{
+    "model": "gpt-4-1106-preview",
+    "type": "assistants",
+    "epochs": "not applicable",
+    "date": "2024-03-05 16:28:22",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FDCA en 2014 ?",
+            "answer_valid": [
+                1125.0
+            ],
+            "answer": [
+                1125.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FCUE en 2015 ?",
+            "answer_valid": [
+                112.0
+            ],
+            "answer": [
+                112.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de Lettres en 2015 ?",
+            "answer_valid": [
+                804.0
+            ],
+            "answer": [
+                804.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FTSR en 2018 ?",
+            "answer_valid": [
+                103.0
+            ],
+            "answer": [
+                103.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de Lettres en 2011 ?",
+            "answer_valid": [
+                2317.0
+            ],
+            "answer": [
+                2317.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FCUE en 2021 ?",
+            "answer_valid": [
+                535.0
+            ],
+            "answer": [
+                535.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de FGSE en 2011 ?",
+            "answer_valid": [
+                602.0
+            ],
+            "answer": [
+                602.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de HEC en 2021 ?",
+            "answer_valid": [
+                2106.0
+            ],
+            "answer": [
+                2106.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de SSP en 2014 ?",
+            "answer_valid": [
+                2890.0
+            ],
+            "answer": [
+                2890.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FCUE en 2016 ?",
+            "answer_valid": [
+                175.0
+            ],
+            "answer": [
+                175.0
+            ],
+            "valid": true
+        }
+    ],
+    "accuracy": 1.0,
+    "debug": "https://platform.openai.com/playground?mode=assistant&thread=thread_dPjHfxP7g3K6QRuPWfjstQeR"
+}

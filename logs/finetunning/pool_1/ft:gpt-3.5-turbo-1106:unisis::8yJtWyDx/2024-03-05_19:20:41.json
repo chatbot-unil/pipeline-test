@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8yJtWyDx",
+    "type": "fine-tuning",
+    "epochs": 8,
+    "date": "2024-03-05 19:20:36",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FBM en 2017 ?",
+            "answer_valid": 0.2548,
+            "answer": 0.2492,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FTSR en 2017 ?",
+            "answer_valid": 0.275,
+            "answer": 0.3684,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FBM en 2012 ?",
+            "answer_valid": 0.7703,
+            "answer": 0.7791,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de HEC en 2016 ?",
+            "answer_valid": 1867.0,
+            "answer": 1911.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de TOTAL en 2018 ?",
+            "answer_valid": 3967.0,
+            "answer": 3987.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de HEC en 2015 ?",
+            "answer_valid": 0.4121,
+            "answer": 0.4168,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de TOTAL en 2013 ?",
+            "answer_valid": 0.732,
+            "answer": 0.7622,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FBM en 2019 ?",
+            "answer_valid": 1438.0,
+            "answer": 1304.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de SSP en 2021 ?",
+            "answer_valid": 0.1836,
+            "answer": 0.1752,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FCUE en 2015 ?",
+            "answer_valid": 0.6216,
+            "answer": 0.5878,
+            "valid": true
+        }
+    ],
+    "accuracy": 0.6
+}

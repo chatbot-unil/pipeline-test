@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8yJtWyDx",
+    "type": "fine-tuning",
+    "epochs": 8,
+    "date": "2024-03-05 19:21:40",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de Lettres en 2014 ?",
+            "answer_valid": 2227.0,
+            "answer": 2311.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FBM en 2020 ?",
+            "answer_valid": 2477.0,
+            "answer": 2402.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de Lettres en 2018 ?",
+            "answer_valid": 2235.0,
+            "answer": 2224.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de Lettres en 2011 ?",
+            "answer_valid": 562.0,
+            "answer": 646.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de SSP en 2021 ?",
+            "answer_valid": 3628.0,
+            "answer": 3508.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de HEC en 2014 ?",
+            "answer_valid": 2911.0,
+            "answer": 2871.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de FBM en 2014 ?",
+            "answer_valid": 2235.0,
+            "answer": 2251.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FBM en 2019 ?",
+            "answer_valid": 3688.0,
+            "answer": 3688.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FDCA en 2013 ?",
+            "answer_valid": 710.0,
+            "answer": 646.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FBM en 2015 ?",
+            "answer_valid": 0.7519,
+            "answer": 0.7792,
+            "valid": true
+        }
+    ],
+    "accuracy": 0.2
+}

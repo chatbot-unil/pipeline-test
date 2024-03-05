@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8xRHbQZM",
+    "type": "fine-tuning",
+    "epochs": 45,
+    "date": "2024-03-05 19:39:29",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de Lettres en 2011 ?",
+            "answer_valid": 2317.0,
+            "answer": 2229.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FBM en 2016 ?",
+            "answer_valid": 3220.0,
+            "answer": 3220.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FBM en 2013 ?",
+            "answer_valid": 692.0,
+            "answer": 692.0,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de TOTAL en 2015 ?",
+            "answer_valid": 0.2642,
+            "answer": 0.2682,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de TOTAL en 2021 ?",
+            "answer_valid": 9985.0,
+            "answer": 10091.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de SSP en 2021 ?",
+            "answer_valid": 1225.0,
+            "answer": 1225.0,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de SSP en 2014 ?",
+            "answer_valid": 0.8173,
+            "answer": 0.8173,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FDCA en 2011 ?",
+            "answer_valid": 0.7741,
+            "answer": 0.7889,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FGSE en 2013 ?",
+            "answer_valid": 345.0,
+            "answer": 345.0,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FCUE en 2014 ?",
+            "answer_valid": 0.4936,
+            "answer": 0.4936,
+            "valid": true
+        }
+    ],
+    "accuracy": 0.8
+}

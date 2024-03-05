@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8xRHbQZM",
+    "type": "fine-tuning",
+    "epochs": 45,
+    "date": "2024-03-05 19:41:47",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FGSE en 2021 ?",
+            "answer_valid": 0.2284,
+            "answer": 0.2284,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de HEC en 2013 ?",
+            "answer_valid": 0.5734,
+            "answer": 0.5961,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de TOTAL en 2015 ?",
+            "answer_valid": 7705.0,
+            "answer": 7527.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de HEC en 2011 ?",
+            "answer_valid": 0.3912,
+            "answer": 0.3806,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FCUE en 2018 ?",
+            "answer_valid": 0.6242,
+            "answer": 0.6242,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de SSP en 2020 ?",
+            "answer_valid": 3508.0,
+            "answer": 3508.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de HEC en 2019 ?",
+            "answer_valid": 1182.0,
+            "answer": 1182.0,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de HEC en 2016 ?",
+            "answer_valid": 0.4126,
+            "answer": 0.4126,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de Lettres en 2016 ?",
+            "answer_valid": 1363.0,
+            "answer": 1363.0,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de SSP en 2013 ?",
+            "answer_valid": 0.1811,
+            "answer": 0.2161,
+            "valid": true
+        }
+    ],
+    "accuracy": 0.9
+}

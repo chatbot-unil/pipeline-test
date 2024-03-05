@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8yJtWyDx",
+    "type": "fine-tuning",
+    "epochs": 8,
+    "date": "2024-03-05 18:53:31",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de FGSE en 2017 ?",
+            "answer_valid": 691.0,
+            "answer": 702.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de HEC en 2011 ?",
+            "answer_valid": 2321.0,
+            "answer": 2337.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de SSP en 2016 ?",
+            "answer_valid": 1134.0,
+            "answer": 1208.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de Lettres en 2019 ?",
+            "answer_valid": 1422.0,
+            "answer": 1581.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de HEC en 2019 ?",
+            "answer_valid": 1082.0,
+            "answer": 1201.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de FBM en 2021 ?",
+            "answer_valid": 3069.0,
+            "answer": 2965.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FDCA en 2017 ?",
+            "answer_valid": 1993.0,
+            "answer": 1993.0,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FTSR en 2020 ?",
+            "answer_valid": 0.3367,
+            "answer": 0.3684,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FTSR en 2017 ?",
+            "answer_valid": 120.0,
+            "answer": 103.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de Lettres en 2011 ?",
+            "answer_valid": 2317.0,
+            "answer": 2311.0,
+            "valid": false
+        }
+    ],
+    "accuracy": 0.2
+}

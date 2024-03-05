@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8xRHbQZM",
+    "type": "fine-tuning",
+    "epochs": 45,
+    "date": "2024-03-05 20:20:14",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FBM en 2011 ?",
+            "answer_valid": 0.7865,
+            "answer": 0.7865,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FGSE en 2011 ?",
+            "answer_valid": 734.0,
+            "answer": 792.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FTSR en 2019 ?",
+            "answer_valid": 0.3271,
+            "answer": 0.3275,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FCUE en 2013 ?",
+            "answer_valid": 72.0,
+            "answer": 72.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FDCA en 2021 ?",
+            "answer_valid": 810.0,
+            "answer": 810.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FTSR en 2016 ?",
+            "answer_valid": 66.0,
+            "answer": 66.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FTSR en 2019 ?",
+            "answer_valid": 107.0,
+            "answer": 107.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FDCA en 2013 ?",
+            "answer_valid": 1773.0,
+            "answer": 1773.0,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FCUE en 2013 ?",
+            "answer_valid": 0.3514,
+            "answer": 0.3514,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de Lettres en 2016 ?",
+            "answer_valid": 2194.0,
+            "answer": 2198.0,
+            "valid": false
+        }
+    ],
+    "accuracy": 0.8
+}

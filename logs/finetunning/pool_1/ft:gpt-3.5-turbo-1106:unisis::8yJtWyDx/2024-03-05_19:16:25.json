@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8yJtWyDx",
+    "type": "fine-tuning",
+    "epochs": 8,
+    "date": "2024-03-05 19:16:20",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de HEC en 2021 ?",
+            "answer_valid": 3303.0,
+            "answer": 3304.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de TOTAL en 2014 ?",
+            "answer_valid": 0.2682,
+            "answer": 0.2588,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de SSP en 2016 ?",
+            "answer_valid": 2932.0,
+            "answer": 3005.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de TOTAL en 2013 ?",
+            "answer_valid": 0.268,
+            "answer": 0.2588,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de FCUE en 2021 ?",
+            "answer_valid": 330.0,
+            "answer": 225.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FGSE en 2020 ?",
+            "answer_valid": 502.0,
+            "answer": 556.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de TOTAL en 2012 ?",
+            "answer_valid": 0.7462,
+            "answer": 0.7626,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de TOTAL en 2013 ?",
+            "answer_valid": 0.732,
+            "answer": 0.7518,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de HEC en 2011 ?",
+            "answer_valid": 1413.0,
+            "answer": 1571.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FDCA en 2020 ?",
+            "answer_valid": 0.2339,
+            "answer": 0.2258,
+            "valid": true
+        }
+    ],
+    "accuracy": 0.5
+}

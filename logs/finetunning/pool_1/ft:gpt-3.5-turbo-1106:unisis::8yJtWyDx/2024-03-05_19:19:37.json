@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8yJtWyDx",
+    "type": "fine-tuning",
+    "epochs": 8,
+    "date": "2024-03-05 19:19:32",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de TOTAL en 2020 ?",
+            "answer_valid": 16919.0,
+            "answer": 17360.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de HEC en 2012 ?",
+            "answer_valid": 2587.0,
+            "answer": 2587.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de HEC en 2012 ?",
+            "answer_valid": 2587.0,
+            "answer": 2587.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FDCA en 2018 ?",
+            "answer_valid": 482.0,
+            "answer": 468.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de HEC en 2017 ?",
+            "answer_valid": 3007.0,
+            "answer": 3012.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FCUE en 2018 ?",
+            "answer_valid": 322.0,
+            "answer": 416.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FGSE en 2017 ?",
+            "answer_valid": 879.0,
+            "answer": 879.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FTSR en 2020 ?",
+            "answer_valid": 98.0,
+            "answer": 119.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de SSP en 2020 ?",
+            "answer_valid": 0.1722,
+            "answer": 0.1752,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FGSE en 2015 ?",
+            "answer_valid": 852.0,
+            "answer": 852.0,
+            "valid": true
+        }
+    ],
+    "accuracy": 0.5
+}

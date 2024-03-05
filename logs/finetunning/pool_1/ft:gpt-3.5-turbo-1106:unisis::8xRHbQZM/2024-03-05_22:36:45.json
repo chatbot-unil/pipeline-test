@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8xRHbQZM",
+    "type": "fine-tuning",
+    "epochs": 45,
+    "date": "2024-03-05 22:36:40",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FGSE en 2021 ?",
+            "answer_valid": 209,
+            "answer": 209.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de HEC en 2019 ?",
+            "answer_valid": 3104,
+            "answer": 3233.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de TOTAL en 2013 ?",
+            "answer_valid": 0.268,
+            "answer": 0.2688,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de TOTAL en 2015 ?",
+            "answer_valid": 3749,
+            "answer": 3992.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de FGSE en 2018 ?",
+            "answer_valid": 704,
+            "answer": 723.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de HEC en 2011 ?",
+            "answer_valid": 908,
+            "answer": 1036.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FCUE en 2017 ?",
+            "answer_valid": 126,
+            "answer": 1036.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de HEC en 2012 ?",
+            "answer_valid": 2587,
+            "answer": 2587.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de Lettres en 2012 ?",
+            "answer_valid": 579,
+            "answer": 477.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de TOTAL en 2020 ?",
+            "answer_valid": 16919,
+            "answer": 16999.0,
+            "valid": false
+        }
+    ],
+    "accuracy": 0.3
+}

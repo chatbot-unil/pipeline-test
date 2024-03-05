@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8xRHbQZM",
+    "type": "fine-tuning",
+    "epochs": 45,
+    "date": "2024-03-05 22:36:51",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FTSR en 2013 ?",
+            "answer_valid": 37,
+            "answer": 44.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FGSE en 2021 ?",
+            "answer_valid": 421,
+            "answer": 462.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de FDCA en 2019 ?",
+            "answer_valid": 1624,
+            "answer": 1549.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FGSE en 2020 ?",
+            "answer_valid": 502,
+            "answer": 502.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de Lettres en 2014 ?",
+            "answer_valid": 785,
+            "answer": 785.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de HEC en 2021 ?",
+            "answer_valid": 3303,
+            "answer": 4419.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FTSR en 2012 ?",
+            "answer_valid": 78,
+            "answer": 78.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de SSP en 2011 ?",
+            "answer_valid": 1584,
+            "answer": 1512.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de HEC en 2015 ?",
+            "answer_valid": 1689,
+            "answer": 1689.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FDCA en 2014 ?",
+            "answer_valid": 1897,
+            "answer": 1919.0,
+            "valid": false
+        }
+    ],
+    "accuracy": 0.4
+}

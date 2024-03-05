@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8yJtWyDx",
+    "type": "fine-tuning",
+    "epochs": 8,
+    "date": "2024-03-05 18:57:15",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FBM en 2016 ?",
+            "answer_valid": 792.0,
+            "answer": 804.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FDCA en 2015 ?",
+            "answer_valid": 430.0,
+            "answer": 468.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de SSP en 2018 ?",
+            "answer_valid": 0.8257,
+            "answer": 0.8242,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FTSR en 2021 ?",
+            "answer_valid": 32.0,
+            "answer": 25.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de TOTAL en 2017 ?",
+            "answer_valid": 14976.0,
+            "answer": 15334.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FTSR en 2012 ?",
+            "answer_valid": 0.3462,
+            "answer": 0.3684,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FTSR en 2014 ?",
+            "answer_valid": 101.0,
+            "answer": 103.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FGSE en 2015 ?",
+            "answer_valid": 486.0,
+            "answer": 556.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FGSE en 2014 ?",
+            "answer_valid": 0.1841,
+            "answer": 0.2101,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de SSP en 2011 ?",
+            "answer_valid": 965.0,
+            "answer": 1030.0,
+            "valid": false
+        }
+    ],
+    "accuracy": 0.3
+}

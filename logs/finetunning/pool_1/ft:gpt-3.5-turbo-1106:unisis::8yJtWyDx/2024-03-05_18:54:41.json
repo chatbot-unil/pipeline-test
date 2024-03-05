@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8yJtWyDx",
+    "type": "fine-tuning",
+    "epochs": 8,
+    "date": "2024-03-05 18:54:37",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de HEC en 2012 ?",
+            "answer_valid": 1551.0,
+            "answer": 1571.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de SSP en 2014 ?",
+            "answer_valid": 1107.0,
+            "answer": 1208.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FGSE en 2019 ?",
+            "answer_valid": 0.2072,
+            "answer": 0.2252,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de Lettres en 2013 ?",
+            "answer_valid": 1476.0,
+            "answer": 1542.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FBM en 2020 ?",
+            "answer_valid": 0.2458,
+            "answer": 0.2492,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FDCA en 2020 ?",
+            "answer_valid": 2279.0,
+            "answer": 2113.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de TOTAL en 2016 ?",
+            "answer_valid": 7827.0,
+            "answer": 7921.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de SSP en 2021 ?",
+            "answer_valid": 1225.0,
+            "answer": 1467.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FBM en 2014 ?",
+            "answer_valid": 2969.0,
+            "answer": 2969.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de SSP en 2018 ?",
+            "answer_valid": 1196.0,
+            "answer": 1204.0,
+            "valid": false
+        }
+    ],
+    "accuracy": 0.3
+}

@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8xRHbQZM",
+    "type": "fine-tuning",
+    "epochs": 45,
+    "date": "2024-02-29 09:52:51",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FCUE en 2021 ?",
+            "answer_valid": 0.3832,
+            "answer": 0.3409,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FDCA en 2014 ?",
+            "answer_valid": 1897.0,
+            "answer": 1919.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de SSP en 2014 ?",
+            "answer_valid": 0.8173,
+            "answer": 0.8173,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de HEC en 2017 ?",
+            "answer_valid": 3007.0,
+            "answer": 3007.0,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FGSE en 2015 ?",
+            "answer_valid": 0.8052,
+            "answer": 0.8241,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de SSP en 2017 ?",
+            "answer_valid": 0.1773,
+            "answer": 0.1862,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de SSP en 2012 ?",
+            "answer_valid": 0.8246,
+            "answer": 0.8241,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FCUE en 2020 ?",
+            "answer_valid": 162.0,
+            "answer": 159.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FDCA en 2013 ?",
+            "answer_valid": 1773.0,
+            "answer": 1773.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FDCA en 2011 ?",
+            "answer_valid": 1638.0,
+            "answer": 1638.0,
+            "valid": true
+        }
+    ],
+    "accuracy": 0.8
+}

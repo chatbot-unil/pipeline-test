@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8yJtWyDx",
+    "type": "fine-tuning",
+    "epochs": 8,
+    "date": "2024-03-05 16:28:08",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FDCA en 2014 ?",
+            "answer_valid": 1125.0,
+            "answer": 1202.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FCUE en 2015 ?",
+            "answer_valid": 112.0,
+            "answer": 143.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de Lettres en 2015 ?",
+            "answer_valid": 804.0,
+            "answer": 901.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FTSR en 2018 ?",
+            "answer_valid": 103.0,
+            "answer": 119.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de Lettres en 2011 ?",
+            "answer_valid": 2317.0,
+            "answer": 2311.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FCUE en 2021 ?",
+            "answer_valid": 535.0,
+            "answer": 506.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de FGSE en 2011 ?",
+            "answer_valid": 602.0,
+            "answer": 646.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de HEC en 2021 ?",
+            "answer_valid": 2106.0,
+            "answer": 2231.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de SSP en 2014 ?",
+            "answer_valid": 2890.0,
+            "answer": 2872.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FCUE en 2016 ?",
+            "answer_valid": 175.0,
+            "answer": 143.0,
+            "valid": false
+        }
+    ],
+    "accuracy": 0.0
+}

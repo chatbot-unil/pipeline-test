@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8xRHbQZM",
+    "type": "fine-tuning",
+    "epochs": 45,
+    "date": "2024-03-05 22:35:32",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FGSE en 2018 ?",
+            "answer_valid": 510,
+            "answer": 510.0,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FBM en 2020 ?",
+            "answer_valid": 0.2458,
+            "answer": 0.2458,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de HEC en 2021 ?",
+            "answer_valid": 0.3624,
+            "answer": 0.3754,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de SSP en 2012 ?",
+            "answer_valid": 1045,
+            "answer": 1045.0,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de TOTAL en 2011 ?",
+            "answer_valid": 0.2424,
+            "answer": 0.2424,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FBM en 2014 ?",
+            "answer_valid": 2969,
+            "answer": 2969.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de TOTAL en 2014 ?",
+            "answer_valid": 3799,
+            "answer": 3915.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FTSR en 2011 ?",
+            "answer_valid": 45,
+            "answer": 55.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de Lettres en 2013 ?",
+            "answer_valid": 2272,
+            "answer": 2192.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FCUE en 2014 ?",
+            "answer_valid": 137,
+            "answer": 107.0,
+            "valid": false
+        }
+    ],
+    "accuracy": 0.6
+}

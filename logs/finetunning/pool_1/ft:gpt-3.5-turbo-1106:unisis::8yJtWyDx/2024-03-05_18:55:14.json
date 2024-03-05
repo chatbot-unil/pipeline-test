@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8yJtWyDx",
+    "type": "fine-tuning",
+    "epochs": 8,
+    "date": "2024-03-05 18:55:09",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FDCA en 2020 ?",
+            "answer_valid": 533.0,
+            "answer": 562.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FBM en 2020 ?",
+            "answer_valid": 1506.0,
+            "answer": 1433.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FCUE en 2014 ?",
+            "answer_valid": 312.0,
+            "answer": 289.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FBM en 2020 ?",
+            "answer_valid": 3983.0,
+            "answer": 3821.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FDCA en 2020 ?",
+            "answer_valid": 2279.0,
+            "answer": 2118.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de SSP en 2018 ?",
+            "answer_valid": 0.8257,
+            "answer": 0.8241,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de FBM en 2016 ?",
+            "answer_valid": 2428.0,
+            "answer": 2401.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de HEC en 2011 ?",
+            "answer_valid": 2321.0,
+            "answer": 2337.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FCUE en 2016 ?",
+            "answer_valid": 285.0,
+            "answer": 296.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de TOTAL en 2018 ?",
+            "answer_valid": 15334.0,
+            "answer": 15334.0,
+            "valid": true
+        }
+    ],
+    "accuracy": 0.2
+}

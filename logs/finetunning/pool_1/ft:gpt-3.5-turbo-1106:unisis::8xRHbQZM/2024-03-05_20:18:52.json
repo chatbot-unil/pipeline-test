@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8xRHbQZM",
+    "type": "fine-tuning",
+    "epochs": 45,
+    "date": "2024-03-05 20:18:48",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de SSP en 2017 ?",
+            "answer_valid": 3086.0,
+            "answer": 3086.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FDCA en 2021 ?",
+            "answer_valid": 2363.0,
+            "answer": 2363.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FDCA en 2021 ?",
+            "answer_valid": 569.0,
+            "answer": 686.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FGSE en 2016 ?",
+            "answer_valid": 471.0,
+            "answer": 502.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FCUE en 2020 ?",
+            "answer_valid": 186.0,
+            "answer": 125.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de SSP en 2018 ?",
+            "answer_valid": 3185.0,
+            "answer": 3185.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de Lettres en 2017 ?",
+            "answer_valid": 2229.0,
+            "answer": 2229.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de TOTAL en 2016 ?",
+            "answer_valid": 3915.0,
+            "answer": 4075.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de SSP en 2012 ?",
+            "answer_valid": 486.0,
+            "answer": 486.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FTSR en 2018 ?",
+            "answer_valid": 45.0,
+            "answer": 45.0,
+            "valid": true
+        }
+    ],
+    "accuracy": 0.6
+}

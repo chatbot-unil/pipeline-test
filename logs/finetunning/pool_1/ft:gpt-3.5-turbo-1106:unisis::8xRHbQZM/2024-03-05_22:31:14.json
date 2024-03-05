@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8xRHbQZM",
+    "type": "fine-tuning",
+    "epochs": 45,
+    "date": "2024-03-05 22:31:08",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de Lettres en 2013 ?",
+            "answer_valid": 0.7372,
+            "answer": 0.7162,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de SSP en 2012 ?",
+            "answer_valid": 2771,
+            "answer": 2890.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de Lettres en 2020 ?",
+            "answer_valid": 812,
+            "answer": 810.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FDCA en 2015 ?",
+            "answer_valid": 0.2241,
+            "answer": 0.2119,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FCUE en 2020 ?",
+            "answer_valid": 362,
+            "answer": 462.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de TOTAL en 2019 ?",
+            "answer_valid": 8892,
+            "answer": 8892.0,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FBM en 2014 ?",
+            "answer_valid": 0.7528,
+            "answer": 0.7525,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FCUE en 2018 ?",
+            "answer_valid": 0.6242,
+            "answer": 0.6242,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FBM en 2016 ?",
+            "answer_valid": 1309,
+            "answer": 1309.0,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de Lettres en 2021 ?",
+            "answer_valid": 0.2168,
+            "answer": 0.2168,
+            "valid": true
+        }
+    ],
+    "accuracy": 0.7
+}

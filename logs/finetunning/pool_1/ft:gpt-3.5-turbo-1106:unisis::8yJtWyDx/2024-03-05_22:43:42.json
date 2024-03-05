@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8yJtWyDx",
+    "type": "fine-tuning",
+    "epochs": 8,
+    "date": "2024-03-05 22:43:33",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de HEC en 2017 ?",
+            "answer_valid": 1057,
+            "answer": 1031.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de SSP en 2012 ?",
+            "answer_valid": 2771,
+            "answer": 2588.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FTSR en 2018 ?",
+            "answer_valid": 103,
+            "answer": 119.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FDCA en 2011 ?",
+            "answer_valid": 993,
+            "answer": 1031.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FBM en 2016 ?",
+            "answer_valid": 3220,
+            "answer": 3147.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FDCA en 2014 ?",
+            "answer_valid": 0.7881,
+            "answer": 0.7791,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de TOTAL en 2014 ?",
+            "answer_valid": 3799,
+            "answer": 3591.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de Lettres en 2014 ?",
+            "answer_valid": 0.2586,
+            "answer": 0.2532,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de TOTAL en 2015 ?",
+            "answer_valid": 10440,
+            "answer": 10976.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FGSE en 2019 ?",
+            "answer_valid": 499,
+            "answer": 556.0,
+            "valid": false
+        }
+    ],
+    "accuracy": 0.2
+}

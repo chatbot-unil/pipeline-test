@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8yJtWyDx",
+    "type": "fine-tuning",
+    "epochs": 8,
+    "date": "2024-03-05 18:58:54",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de TOTAL en 2014 ?",
+            "answer_valid": 7736.0,
+            "answer": 7745.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FTSR en 2019 ?",
+            "answer_valid": 57.0,
+            "answer": 39.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FDCA en 2016 ?",
+            "answer_valid": 0.233,
+            "answer": 0.2372,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FTSR en 2011 ?",
+            "answer_valid": 79.0,
+            "answer": 78.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FCUE en 2017 ?",
+            "answer_valid": 0.5714,
+            "answer": 0.5878,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FCUE en 2019 ?",
+            "answer_valid": 156.0,
+            "answer": 174.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FCUE en 2015 ?",
+            "answer_valid": 296.0,
+            "answer": 296.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FTSR en 2020 ?",
+            "answer_valid": 98.0,
+            "answer": 111.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FTSR en 2021 ?",
+            "answer_valid": 0.3596,
+            "answer": 0.3684,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de FDCA en 2017 ?",
+            "answer_valid": 1531.0,
+            "answer": 1509.0,
+            "valid": false
+        }
+    ],
+    "accuracy": 0.4
+}

@@ -8,14 +8,17 @@ import time
 
 parser = argparse.ArgumentParser(description='Test Pipeline subprocesses')
 parser.add_argument('--pool', default='data/pool_data/pool_1_data.json', help='Path to the JSON file containing test data')
-parser.add_argument('-pool_type', default='pool_1', help='Type of pool')
+parser.add_argument('--pool_type', default='pool_1', help='Type of pool')
 parser.add_argument('--dataset', default='data/test/test_data.json', help='Path to the JSON file containing test data')
 parser.add_argument('--nb', default=10, help='Number of questions to test')
 parser.add_argument('--nb_times', default=1, help='Number of times to test the pipeline')
 args = parser.parse_args()
 
-model = ['gpt-4-1106-preview', 'gpt-4-turbo-preview']
-name = ['test_unil_assistant', 'test_unil_assistant_turbo']
+#model = ['gpt-4-1106-preview', 'gpt-4-turbo-preview']
+#name = ['test_unil_assistant', 'test_unil_assistant_turbo']
+
+model = ['gpt-4-1106-preview']
+name = ['test_unil_assistant']
 
 def create_dataset():
 	# python3 create_test_dataset.py --data data/pool_data/pool_1_data.json --nb 30

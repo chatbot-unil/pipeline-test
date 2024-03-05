@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8yJtWyDx",
+    "type": "fine-tuning",
+    "epochs": 8,
+    "date": "2024-03-05 22:44:13",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FDCA en 2015 ?",
+            "answer_valid": 0.2241,
+            "answer": 0.2372,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FCUE en 2020 ?",
+            "answer_valid": 524,
+            "answer": 506.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de TOTAL en 2012 ?",
+            "answer_valid": 9667,
+            "answer": 9800.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FCUE en 2013 ?",
+            "answer_valid": 60,
+            "answer": 120.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FGSE en 2020 ?",
+            "answer_valid": 0.2049,
+            "answer": 0.2104,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FDCA en 2020 ?",
+            "answer_valid": 807,
+            "answer": 782.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FCUE en 2021 ?",
+            "answer_valid": 535,
+            "answer": 506.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FDCA en 2018 ?",
+            "answer_valid": 0.2376,
+            "answer": 0.2258,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de HEC en 2012 ?",
+            "answer_valid": 1036,
+            "answer": 1191.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de HEC en 2018 ?",
+            "answer_valid": 1166,
+            "answer": 1187.0,
+            "valid": false
+        }
+    ],
+    "accuracy": 0.3
+}

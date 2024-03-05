@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8xRHbQZM",
+    "type": "fine-tuning",
+    "epochs": 45,
+    "date": "2024-03-05 19:38:03",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de SSP en 2011 ?",
+            "answer_valid": 965.0,
+            "answer": 965.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de Lettres en 2021 ?",
+            "answer_valid": 2200.0,
+            "answer": 2200.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de FBM en 2018 ?",
+            "answer_valid": 2612.0,
+            "answer": 2610.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FCUE en 2015 ?",
+            "answer_valid": 296.0,
+            "answer": 296.0,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FTSR en 2012 ?",
+            "answer_valid": 0.3462,
+            "answer": 0.4103,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de FDCA en 2017 ?",
+            "answer_valid": 1531.0,
+            "answer": 1491.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FGSE en 2020 ?",
+            "answer_valid": 947.0,
+            "answer": 941.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de TOTAL en 2013 ?",
+            "answer_valid": 13643.0,
+            "answer": 12155.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de SSP en 2013 ?",
+            "answer_valid": 1849.0,
+            "answer": 1849.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de TOTAL en 2011 ?",
+            "answer_valid": 9275.0,
+            "answer": 8152.0,
+            "valid": false
+        }
+    ],
+    "accuracy": 0.4
+}

@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8xRHbQZM",
+    "type": "fine-tuning",
+    "epochs": 45,
+    "date": "2024-03-05 22:35:00",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de SSP en 2014 ?",
+            "answer_valid": 0.8173,
+            "answer": 0.8173,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de Lettres en 2014 ?",
+            "answer_valid": 0.7414,
+            "answer": 0.7414,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FDCA en 2015 ?",
+            "answer_valid": 1139,
+            "answer": 1139.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de TOTAL en 2015 ?",
+            "answer_valid": 10440,
+            "answer": 10366.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FBM en 2018 ?",
+            "answer_valid": 2112,
+            "answer": 2111.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de Lettres en 2016 ?",
+            "answer_valid": 1611,
+            "answer": 1373.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FGSE en 2020 ?",
+            "answer_valid": 0.7951,
+            "answer": 0.8151,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FTSR en 2017 ?",
+            "answer_valid": 0.725,
+            "answer": 0.6893,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FTSR en 2020 ?",
+            "answer_valid": 98,
+            "answer": 98.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de FTSR en 2020 ?",
+            "answer_valid": 65,
+            "answer": 60.0,
+            "valid": false
+        }
+    ],
+    "accuracy": 0.6
+}

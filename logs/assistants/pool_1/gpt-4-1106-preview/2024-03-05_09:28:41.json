@@ -1,0 +1,112 @@
+{
+    "model": "gpt-4-1106-preview",
+    "type": "assistants",
+    "epochs": "not applicable",
+    "date": "2024-03-05 09:23:22",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FTSR en 2013 ?",
+            "answer_valid": [
+                0.6854
+            ],
+            "answer": [
+                0.6853932584269663
+            ],
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de Lettres en 2012 ?",
+            "answer_valid": [
+                0.2527
+            ],
+            "answer": [
+                0.2527280663465735
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FBM en 2012 ?",
+            "answer_valid": [
+                1170.0
+            ],
+            "answer": [
+                1170.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de Lettres en 2016 ?",
+            "answer_valid": [
+                0.7343
+            ],
+            "answer": [
+                0.7342752962625342
+            ],
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FGSE en 2014 ?",
+            "answer_valid": [
+                0.1841
+            ],
+            "answer": [
+                0.18414918414918416
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de TOTAL en 2016 ?",
+            "answer_valid": [
+                14475.0
+            ],
+            "answer": [
+                14475.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FTSR en 2011 ?",
+            "answer_valid": [
+                34.0
+            ],
+            "answer": [
+                34.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de SSP en 2013 ?",
+            "answer_valid": [
+                1144.0
+            ],
+            "answer": [
+                1144.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de TOTAL en 2015 ?",
+            "answer_valid": [
+                0.2642
+            ],
+            "answer": [
+                0.2642187610120516
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de TOTAL en 2019 ?",
+            "answer_valid": [
+                6976.0
+            ],
+            "answer": [
+                6976.0
+            ],
+            "valid": true
+        }
+    ],
+    "accuracy": 1.0,
+    "debug": "https://platform.openai.com/playground?mode=assistant&thread=thread_PboDgUGAGp3jhlRfCzynrbJo"
+}

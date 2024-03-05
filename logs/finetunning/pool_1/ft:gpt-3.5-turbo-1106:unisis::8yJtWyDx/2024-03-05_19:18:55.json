@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8yJtWyDx",
+    "type": "fine-tuning",
+    "epochs": 8,
+    "date": "2024-03-05 19:18:50",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de TOTAL en 2018 ?",
+            "answer_valid": 15334.0,
+            "answer": 15334.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FTSR en 2021 ?",
+            "answer_valid": 89.0,
+            "answer": 119.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FTSR en 2017 ?",
+            "answer_valid": 0.725,
+            "answer": 0.6854,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de Lettres en 2019 ?",
+            "answer_valid": 833.0,
+            "answer": 813.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de TOTAL en 2020 ?",
+            "answer_valid": 4311.0,
+            "answer": 4689.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FDCA en 2015 ?",
+            "answer_valid": 0.7759,
+            "answer": 0.7662,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FDCA en 2013 ?",
+            "answer_valid": 710.0,
+            "answer": 646.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de Lettres en 2015 ?",
+            "answer_valid": 2233.0,
+            "answer": 2277.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de SSP en 2017 ?",
+            "answer_valid": 3086.0,
+            "answer": 3007.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de HEC en 2018 ?",
+            "answer_valid": 3087.0,
+            "answer": 3012.0,
+            "valid": false
+        }
+    ],
+    "accuracy": 0.3
+}

@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8yJtWyDx",
+    "type": "fine-tuning",
+    "epochs": 8,
+    "date": "2024-03-05 19:17:24",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de SSP en 2014 ?",
+            "answer_valid": 2890.0,
+            "answer": 2871.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FDCA en 2019 ?",
+            "answer_valid": 0.2332,
+            "answer": 0.2378,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de HEC en 2016 ?",
+            "answer_valid": 2899.0,
+            "answer": 2911.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de HEC en 2021 ?",
+            "answer_valid": 3303.0,
+            "answer": 3304.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de SSP en 2014 ?",
+            "answer_valid": 1783.0,
+            "answer": 1892.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de HEC en 2016 ?",
+            "answer_valid": 0.5874,
+            "answer": 0.6241,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FCUE en 2019 ?",
+            "answer_valid": 0.6594,
+            "answer": 0.5878,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FDCA en 2013 ?",
+            "answer_valid": 0.2341,
+            "answer": 0.2252,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de Lettres en 2016 ?",
+            "answer_valid": 2194.0,
+            "answer": 2223.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de TOTAL en 2011 ?",
+            "answer_valid": 6767.0,
+            "answer": 7105.0,
+            "valid": false
+        }
+    ],
+    "accuracy": 0.3
+}

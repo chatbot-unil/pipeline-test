@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8xRHbQZM",
+    "type": "fine-tuning",
+    "epochs": 45,
+    "date": "2024-03-05 22:31:32",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FCUE en 2014 ?",
+            "answer_valid": 137,
+            "answer": 107.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de FDCA en 2018 ?",
+            "answer_valid": 1547,
+            "answer": 1549.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FDCA en 2014 ?",
+            "answer_valid": 1897,
+            "answer": 1919.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de FTSR en 2020 ?",
+            "answer_valid": 65,
+            "answer": 60.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de SSP en 2021 ?",
+            "answer_valid": 0.8164,
+            "answer": 0.8362,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FCUE en 2015 ?",
+            "answer_valid": 0.3784,
+            "answer": 0.4919,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FTSR en 2014 ?",
+            "answer_valid": 57,
+            "answer": 57.0,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FCUE en 2017 ?",
+            "answer_valid": 125,
+            "answer": 125.0,
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de Lettres en 2012 ?",
+            "answer_valid": 0.2527,
+            "answer": 0.2628,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FTSR en 2013 ?",
+            "answer_valid": 37,
+            "answer": 44.0,
+            "valid": false
+        }
+    ],
+    "accuracy": 0.4
+}

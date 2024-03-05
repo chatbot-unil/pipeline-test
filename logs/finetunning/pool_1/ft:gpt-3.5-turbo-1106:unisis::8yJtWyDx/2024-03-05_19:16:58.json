@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8yJtWyDx",
+    "type": "fine-tuning",
+    "epochs": 8,
+    "date": "2024-03-05 19:16:53",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de SSP en 2011 ?",
+            "answer_valid": 2549.0,
+            "answer": 2584.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FDCA en 2021 ?",
+            "answer_valid": 569.0,
+            "answer": 571.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de FBM en 2015 ?",
+            "answer_valid": 2273.0,
+            "answer": 2252.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FTSR en 2013 ?",
+            "answer_valid": 37.0,
+            "answer": 33.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de SSP en 2014 ?",
+            "answer_valid": 0.1827,
+            "answer": 0.1752,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de SSP en 2014 ?",
+            "answer_valid": 2890.0,
+            "answer": 2875.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de SSP en 2017 ?",
+            "answer_valid": 547.0,
+            "answer": 587.0,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de HEC en 2011 ?",
+            "answer_valid": 1493.0,
+            "answer": 1584.0,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de TOTAL en 2021 ?",
+            "answer_valid": 0.2563,
+            "answer": 0.2582,
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FGSE en 2016 ?",
+            "answer_valid": 817.0,
+            "answer": 879.0,
+            "valid": false
+        }
+    ],
+    "accuracy": 0.2
+}
