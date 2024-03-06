@@ -92,7 +92,7 @@ questions = prepare_data(open_test_data(args.data_test))
 
 # Instructions and tools for the assistant
 INSTRUCTIONS = """
-Étant donné la liste JSON suivante, qui contient des informations sur différents fichiers de statistiques étudiantes, votre tâche est de simplement identifier les fichiers pertinents et d'extraire leurs IDs. 
+Étant donné la liste JSON suivante, qui contient des informations sur différents fichiers de statistiques étudiantes, votre tâche est de simplement identifier les fichiers pertinents et d'extraire leurs IDs.
 Il n'est pas nécessaire de chercher ou de fournir une réponse à une question spécifique dans un premier temps.
 
 Utilisez la fonction suivante pour ajouter un fichier à l'assistant:
@@ -116,6 +116,8 @@ Dans le cas où vous ne trouvez pas de réponse, veuillez utiliser le format sui
 }
 
 A noté que les proportions doivent être des floats (0.xx) et non des entiers (0).
+
+Et que si tu a des différences entre 2 valeurs, tu dois la calculer et la mettre dans valeurs.
 
 A tout moment, Si le sujet de la question change, et que les fichiers pertinents sont différents, vous pouvez utiliser la fonction suivante pour recharger l'assistant avec uniquement le fichier proxy:
 
@@ -178,7 +180,7 @@ for question in questions:
         valeurs = None
     else:
         valeurs = [float(valeur) for valeur in valeurs]
-    
+
     print(f"Question: {question.question}")
     print(f"Valeurs: {valeurs}")
     print(f"Answer valid: {question.answer_valid}")
@@ -186,7 +188,7 @@ for question in questions:
     question.set_answer(valeurs)
     question.set_valid(question.evaluate())
     json_questions['questions'].append(question.to_json())
-    
+
     time.sleep(10)
 
 json_questions['accuracy'] = evaluate_questions(questions)
@@ -202,7 +204,7 @@ save_json_questions(json_questions, path)
 
 # Clean up
 assistant.delete()
-print("Assistant deleted with ID: " + assistant.assistant_id)
+print(f"Assistant deleted with ID: {assistant.assistant_id}")
 
 # Delete files
 for file in files:

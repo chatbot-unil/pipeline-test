@@ -1,0 +1,131 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8zYJ607I",
+    "type": "fine-tuning",
+    "epochs": 8,
+    "date": "2024-03-06 14:52:41",
+    "nb_questions": 10,
+    "pool_type": "pool_2",
+    "questions": [
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de FGSE et SSP en 2020.",
+            "answer_valid": [
+                947,
+                3508
+            ],
+            "answer": [
+                947.0,
+                3508.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de FGSE et SSP en 2011.",
+            "answer_valid": [
+                734,
+                2549
+            ],
+            "answer": [
+                734.0,
+                2549.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de TOTAL et Lettres en 2016.",
+            "answer_valid": [
+                14475,
+                2194
+            ],
+            "answer": [
+                14442.0,
+                2229.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de FTSR et FGSE en 2019.",
+            "answer_valid": [
+                107,
+                912
+            ],
+            "answer": [
+                308.0,
+                912.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de FCUE et FTSR en 2020.",
+            "answer_valid": [
+                524,
+                98
+            ],
+            "answer": [
+                524.0,
+                89.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de FGSE et Lettres en 2011.",
+            "answer_valid": [
+                734,
+                2317
+            ],
+            "answer": [
+                734.0,
+                2317.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de FTSR et TOTAL en 2015.",
+            "answer_valid": [
+                121,
+                14189
+            ],
+            "answer": [
+                296.0,
+                14178.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de FBM et FGSE en 2015.",
+            "answer_valid": [
+                3023,
+                852
+            ],
+            "answer": [
+                3023.0,
+                858.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de HEC et FTSR en 2014.",
+            "answer_valid": [
+                2911,
+                101
+            ],
+            "answer": [
+                2911.0,
+                107.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de FDCA et SSP en 2016.",
+            "answer_valid": [
+                2009,
+                2932
+            ],
+            "answer": [
+                1897.0,
+                2932.0
+            ],
+            "valid": false
+        }
+    ],
+    "accuracy": 0.3
+}

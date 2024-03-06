@@ -1,62 +1,62 @@
 [
     {
-        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FGSE entre 2012 et 2015 ?",
+        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FDCA entre 2011 et 2019 ?",
         "answer": {
-            "value": 60
+            "value": 480
         }
     },
     {
-        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FBM entre 2017 et 2021 ?",
+        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de HEC entre 2016 et 2017 ?",
         "answer": {
-            "value": 740
+            "value": 108
         }
     },
     {
-        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de SSP entre 2013 et 2020 ?",
+        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FBM entre 2013 et 2021 ?",
         "answer": {
-            "value": 515
+            "value": 1254
         }
     },
     {
-        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FBM entre 2012 et 2015 ?",
+        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de SSP entre 2015 et 2021 ?",
         "answer": {
-            "value": 298
+            "value": 756
         }
     },
     {
-        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de TOTAL entre 2011 et 2021 ?",
+        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de TOTAL entre 2011 et 2015 ?",
         "answer": {
-            "value": 4899
+            "value": 1947
         }
     },
     {
-        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FDCA entre 2015 et 2018 ?",
+        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FTSR entre 2014 et 2018 ?",
         "answer": {
-            "value": 110
+            "value": 2
         }
     },
     {
-        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FBM entre 2011 et 2013 ?",
+        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FTSR entre 2013 et 2015 ?",
         "answer": {
-            "value": 250
+            "value": 32
         }
     },
     {
-        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FDCA entre 2016 et 2018 ?",
+        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FCUE entre 2014 et 2021 ?",
         "answer": {
-            "value": 20
+            "value": 223
         }
     },
     {
-        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FBM entre 2015 et 2017 ?",
+        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FBM entre 2014 et 2020 ?",
         "answer": {
-            "value": 345
+            "value": 1014
         }
     },
     {
-        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de SSP entre 2011 et 2017 ?",
+        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de TOTAL entre 2019 et 2021 ?",
         "answer": {
-            "value": 537
+            "value": 1273
         }
     }
 ]

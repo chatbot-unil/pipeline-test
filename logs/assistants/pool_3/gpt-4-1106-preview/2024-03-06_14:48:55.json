@@ -1,0 +1,102 @@
+{
+    "model": "gpt-4-1106-preview",
+    "type": "assistants",
+    "epochs": "not applicable",
+    "date": "2024-03-06 14:44:28",
+    "nb_questions": 10,
+    "pool_type": "pool_3",
+    "questions": [
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FBM entre 2016 et 2020 ?",
+            "answer_valid": [
+                763.0
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de Lettres entre 2018 et 2019 ?",
+            "answer_valid": [
+                20.0
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FGSE entre 2011 et 2021 ?",
+            "answer_valid": [
+                181.0
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FCUE entre 2017 et 2019 ?",
+            "answer_valid": [
+                164.0
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FGSE entre 2015 et 2019 ?",
+            "answer_valid": [
+                60.0
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FTSR entre 2012 et 2016 ?",
+            "answer_valid": [
+                41.0
+            ],
+            "answer": [
+                41.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FBM entre 2011 et 2019 ?",
+            "answer_valid": [
+                1084.0
+            ],
+            "answer": [
+                1084.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de HEC entre 2015 et 2020 ?",
+            "answer_valid": [
+                433.0
+            ],
+            "answer": [
+                433.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FTSR entre 2015 et 2020 ?",
+            "answer_valid": [
+                -23.0
+            ],
+            "answer": [
+                -23.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de SSP entre 2020 et 2021 ?",
+            "answer_valid": [
+                120.0
+            ],
+            "answer": [
+                120.0
+            ],
+            "valid": true
+        }
+    ],
+    "accuracy": 0.5,
+    "debug": "https://platform.openai.com/playground?mode=assistant&thread=thread_Zr01HLjgWszVUlQwNKkzcBwF"
+}

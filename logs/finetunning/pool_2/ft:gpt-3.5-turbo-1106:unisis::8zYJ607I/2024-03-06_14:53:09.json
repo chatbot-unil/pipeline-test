@@ -1,0 +1,131 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8zYJ607I",
+    "type": "fine-tuning",
+    "epochs": 8,
+    "date": "2024-03-06 14:53:04",
+    "nb_questions": 10,
+    "pool_type": "pool_2",
+    "questions": [
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de FBM et TOTAL en 2018.",
+            "answer_valid": [
+                3481,
+                15334
+            ],
+            "answer": [
+                3481.0,
+                15334.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de FDCA et FGSE en 2018.",
+            "answer_valid": [
+                2029,
+                892
+            ],
+            "answer": [
+                2029.0,
+                892.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de FBM et FTSR en 2021.",
+            "answer_valid": [
+                4108,
+                89
+            ],
+            "answer": [
+                4108.0,
+                89.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de TOTAL et Lettres en 2015.",
+            "answer_valid": [
+                14189,
+                2233
+            ],
+            "answer": [
+                14189.0,
+                2229.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de FBM et Lettres en 2013.",
+            "answer_valid": [
+                2854,
+                2272
+            ],
+            "answer": [
+                2854.0,
+                2227.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de HEC et FTSR en 2018.",
+            "answer_valid": [
+                3087,
+                103
+            ],
+            "answer": [
+                3086.0,
+                177.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de FBM et HEC en 2012.",
+            "answer_valid": [
+                2725,
+                2587
+            ],
+            "answer": [
+                2725.0,
+                2321.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de FDCA et FTSR en 2017.",
+            "answer_valid": [
+                1993,
+                120
+            ],
+            "answer": [
+                1993.0,
+                120.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de HEC et SSP en 2018.",
+            "answer_valid": [
+                3087,
+                3185
+            ],
+            "answer": [
+                3087.0,
+                3185.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de FGSE et SSP en 2014.",
+            "answer_valid": [
+                858,
+                2890
+            ],
+            "answer": [
+                858.0,
+                2932.0
+            ],
+            "valid": false
+        }
+    ],
+    "accuracy": 0.5
+}

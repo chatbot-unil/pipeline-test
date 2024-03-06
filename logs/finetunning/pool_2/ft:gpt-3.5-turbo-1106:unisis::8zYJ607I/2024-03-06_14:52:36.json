@@ -1,0 +1,131 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8zYJ607I",
+    "type": "fine-tuning",
+    "epochs": 8,
+    "date": "2024-03-06 14:52:30",
+    "nb_questions": 10,
+    "pool_type": "pool_2",
+    "questions": [
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de HEC et TOTAL en 2011.",
+            "answer_valid": [
+                2321,
+                12242
+            ],
+            "answer": [
+                2321.0,
+                12242.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de FCUE et TOTAL en 2020.",
+            "answer_valid": [
+                524,
+                16919
+            ],
+            "answer": [
+                524.0,
+                17141.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de HEC et FDCA en 2014.",
+            "answer_valid": [
+                2911,
+                1897
+            ],
+            "answer": [
+                2911.0,
+                1897.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de HEC et SSP en 2020.",
+            "answer_valid": [
+                3306,
+                3508
+            ],
+            "answer": [
+                3104.0,
+                3508.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de TOTAL et Lettres en 2011.",
+            "answer_valid": [
+                12242,
+                2317
+            ],
+            "answer": [
+                12242.0,
+                2317.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de FGSE et TOTAL en 2019.",
+            "answer_valid": [
+                912,
+                15868
+            ],
+            "answer": [
+                912.0,
+                15865.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de FCUE et Lettres en 2014.",
+            "answer_valid": [
+                312,
+                2227
+            ],
+            "answer": [
+                312.0,
+                2229.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de HEC et SSP en 2021.",
+            "answer_valid": [
+                3303,
+                3628
+            ],
+            "answer": [
+                4108.0,
+                3628.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de HEC et FTSR en 2020.",
+            "answer_valid": [
+                3306,
+                98
+            ],
+            "answer": [
+                3104.0,
+                89.0
+            ],
+            "valid": false
+        },
+        {
+            "question": "Comparez le nombre total d'étudiants inscrits dans les facultés de FCUE et FGSE en 2021.",
+            "answer_valid": [
+                535,
+                915
+            ],
+            "answer": [
+                535.0,
+                915.0
+            ],
+            "valid": true
+        }
+    ],
+    "accuracy": 0.4
+}

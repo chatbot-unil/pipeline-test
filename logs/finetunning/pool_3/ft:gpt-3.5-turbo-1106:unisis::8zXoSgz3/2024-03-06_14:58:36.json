@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8zXoSgz3",
+    "type": "fine-tuning",
+    "epochs": 8,
+    "date": "2024-03-06 14:58:20",
+    "nb_questions": 10,
+    "pool_type": "pool_3",
+    "questions": [
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FTSR entre 2013 et 2018 ?",
+            "answer_valid": 14,
+            "answer": -27.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de TOTAL entre 2016 et 2021 ?",
+            "answer_valid": 2666,
+            "answer": 2946.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FTSR entre 2012 et 2017 ?",
+            "answer_valid": 42,
+            "answer": -21.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FBM entre 2017 et 2019 ?",
+            "answer_valid": 320,
+            "answer": 222.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FCUE entre 2013 et 2017 ?",
+            "answer_valid": 183,
+            "answer": 145.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FBM entre 2013 et 2015 ?",
+            "answer_valid": 169,
+            "answer": 222.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FTSR entre 2015 et 2018 ?",
+            "answer_valid": -18,
+            "answer": -18.0,
+            "valid": true
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FDCA entre 2012 et 2018 ?",
+            "answer_valid": 318,
+            "answer": 282.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de Lettres entre 2015 et 2017 ?",
+            "answer_valid": -4,
+            "answer": -41.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FCUE entre 2018 et 2020 ?",
+            "answer_valid": 202,
+            "answer": 46.0,
+            "valid": false
+        }
+    ],
+    "accuracy": 0.1
+}

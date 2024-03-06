@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8zXoSgz3",
+    "type": "fine-tuning",
+    "epochs": 8,
+    "date": "2024-03-06 15:02:40",
+    "nb_questions": 10,
+    "pool_type": "pool_3",
+    "questions": [
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de SSP entre 2011 et 2014 ?",
+            "answer_valid": 341,
+            "answer": 294.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de TOTAL entre 2014 et 2015 ?",
+            "answer_valid": 24,
+            "answer": 295.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de SSP entre 2018 et 2021 ?",
+            "answer_valid": 443,
+            "answer": 366.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de SSP entre 2011 et 2015 ?",
+            "answer_valid": 323,
+            "answer": 354.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FGSE entre 2013 et 2021 ?",
+            "answer_valid": 102,
+            "answer": 173.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de HEC entre 2012 et 2020 ?",
+            "answer_valid": 719,
+            "answer": 756.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FTSR entre 2013 et 2021 ?",
+            "answer_valid": 0,
+            "answer": -33.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de SSP entre 2011 et 2020 ?",
+            "answer_valid": 959,
+            "answer": 737.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FTSR entre 2017 et 2020 ?",
+            "answer_valid": -22,
+            "answer": -18.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de TOTAL entre 2011 et 2019 ?",
+            "answer_valid": 3626,
+            "answer": 4763.0,
+            "valid": false
+        }
+    ],
+    "accuracy": 0.0
+}

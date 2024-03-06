@@ -35,13 +35,14 @@ def get_all_logs(path):
                         finetuning_array.append(data)
         elif "assistant" in root:
             for file in files:
+                print(root + "/" + file)
                 with open(root + "/" + file, "r") as f:
                     data = f.read()
                     data = json.loads(data)
                     assistant_array.append(data)
 
     return finetuning_array, assistant_array
-    
+
 def create_plot_finetuning(finetuning_array):
     data = group_data_by_pool_type(finetuning_array)
     print(data)
