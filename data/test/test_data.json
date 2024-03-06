@@ -1,62 +1,62 @@
 [
     {
-        "question": "Combien d'étudiants suisses il y avait à la faculté de HEC en 2019 ?",
+        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FGSE entre 2012 et 2015 ?",
         "answer": {
-            "value": 1922
+            "value": 60
         }
     },
     {
-        "question": "Combien d'étudiants masculin étaient inscrits à la faculté de TOTAL en 2011 ?",
+        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FBM entre 2017 et 2021 ?",
         "answer": {
-            "value": 5445
+            "value": 740
         }
     },
     {
-        "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FDCA en 2012 ?",
+        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de SSP entre 2013 et 2020 ?",
         "answer": {
-            "value": 1034
+            "value": 515
         }
     },
     {
-        "question": "Combien d'étudiants étaient inscrits à la faculté de HEC en 2017 ?",
+        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FBM entre 2012 et 2015 ?",
         "answer": {
-            "value": 3007
+            "value": 298
         }
     },
     {
-        "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FTSR en 2011 ?",
+        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de TOTAL entre 2011 et 2021 ?",
         "answer": {
-            "value": 34
+            "value": 4899
         }
     },
     {
-        "question": "Combien d'étudiants suisses il y avait à la faculté de HEC en 2013 ?",
+        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FDCA entre 2015 et 2018 ?",
         "answer": {
-            "value": 1570
+            "value": 110
         }
     },
     {
-        "question": "Combien d'étudiants suisses il y avait à la faculté de Lettres en 2021 ?",
+        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FBM entre 2011 et 2013 ?",
         "answer": {
-            "value": 1723
+            "value": 250
         }
     },
     {
-        "question": "Combien d'étudiants étaient inscrits à la faculté de FGSE en 2021 ?",
+        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FDCA entre 2016 et 2018 ?",
         "answer": {
-            "value": 915
+            "value": 20
         }
     },
     {
-        "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FTSR en 2013 ?",
+        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FBM entre 2015 et 2017 ?",
         "answer": {
-            "value": 37
+            "value": 345
         }
     },
     {
-        "question": "Quelle était la proportion d'étudiants internationaux à la faculté de SSP en 2014 ?",
+        "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de SSP entre 2011 et 2017 ?",
         "answer": {
-            "value": 0.1827
+            "value": 537
         }
     }
 ]

@@ -1,0 +1,71 @@
+{
+    "model": "ft:gpt-3.5-turbo-1106:unisis::8zW1uyRP",
+    "type": "fine-tuning",
+    "epochs": 45,
+    "date": "2024-03-05 23:27:19",
+    "nb_questions": 10,
+    "pool_type": "pool_3",
+    "questions": [
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de Lettres entre 2011 et 2013 ?",
+            "answer_valid": -45,
+            "answer": -45.0,
+            "valid": true
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de SSP entre 2013 et 2017 ?",
+            "answer_valid": 93,
+            "answer": 323.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FTSR entre 2011 et 2017 ?",
+            "answer_valid": 41,
+            "answer": 25.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de SSP entre 2012 et 2013 ?",
+            "answer_valid": 222,
+            "answer": 73.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de TOTAL entre 2017 et 2020 ?",
+            "answer_valid": 1943,
+            "answer": 1273.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FCUE entre 2016 et 2020 ?",
+            "answer_valid": 239,
+            "answer": 250.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de TOTAL entre 2015 et 2019 ?",
+            "answer_valid": 1679,
+            "answer": 1673.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FTSR entre 2013 et 2016 ?",
+            "answer_valid": 30,
+            "answer": 31.0,
+            "valid": false
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de FBM entre 2011 et 2017 ?",
+            "answer_valid": 764,
+            "answer": 764.0,
+            "valid": true
+        },
+        {
+            "question": "Quel est la différence du nombre d'étudiants inscrits à la faculté de HEC entre 2014 et 2016 ?",
+            "answer_valid": -12,
+            "answer": 26.0,
+            "valid": false
+        }
+    ],
+    "accuracy": 0.2
+}
