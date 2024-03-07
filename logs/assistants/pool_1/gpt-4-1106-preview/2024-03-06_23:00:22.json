@@ -1,0 +1,92 @@
+{
+    "model": "gpt-4-1106-preview",
+    "type": "assistants",
+    "epochs": "not applicable",
+    "date": "2024-03-06 22:58:13",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FTSR en 2015 ?",
+            "answer_valid": [
+                35.0
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de Lettres en 2014 ?",
+            "answer_valid": [
+                2227.0
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de HEC en 2018 ?",
+            "answer_valid": [
+                3087.0
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FCUE en 2013 ?",
+            "answer_valid": [
+                0.3514
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de FTSR en 2017 ?",
+            "answer_valid": [
+                120.0
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de SSP en 2013 ?",
+            "answer_valid": [
+                2993.0
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de TOTAL en 2014 ?",
+            "answer_valid": [
+                14165.0
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FTSR en 2021 ?",
+            "answer_valid": [
+                89.0
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FCUE en 2015 ?",
+            "answer_valid": [
+                112.0
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FCUE en 2018 ?",
+            "answer_valid": [
+                322.0
+            ],
+            "answer": null,
+            "valid": false
+        }
+    ],
+    "accuracy": 0.0,
+    "debug": "https://platform.openai.com/playground?mode=assistant&thread=thread_iC5nP1Yj0XnK7cyoQlkJ8FXk"
+}

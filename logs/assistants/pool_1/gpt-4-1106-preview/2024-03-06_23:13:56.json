@@ -1,0 +1,92 @@
+{
+    "model": "gpt-4-1106-preview",
+    "type": "assistants",
+    "epochs": "not applicable",
+    "date": "2024-03-06 23:11:50",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FCUE en 2019 ?",
+            "answer_valid": [
+                156.0
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de FCUE en 2015 ?",
+            "answer_valid": [
+                112.0
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de TOTAL en 2021 ?",
+            "answer_valid": [
+                4394.0
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de FBM en 2019 ?",
+            "answer_valid": [
+                2783.0
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de Lettres en 2011 ?",
+            "answer_valid": [
+                0.2426
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de TOTAL en 2017 ?",
+            "answer_valid": [
+                14976.0
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de FDCA en 2016 ?",
+            "answer_valid": [
+                1541.0
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FTSR en 2017 ?",
+            "answer_valid": [
+                67.0
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de TOTAL en 2013 ?",
+            "answer_valid": [
+                6165.0
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants suisses il y avait à la faculté de Lettres en 2017 ?",
+            "answer_valid": [
+                1664.0
+            ],
+            "answer": null,
+            "valid": false
+        }
+    ],
+    "accuracy": 0.0,
+    "debug": "https://platform.openai.com/playground?mode=assistant&thread=thread_bmwIle4W3nIgFGI533b1zORQ"
+}

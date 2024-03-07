@@ -1,0 +1,110 @@
+{
+    "model": "gpt-4-1106-preview",
+    "type": "assistants",
+    "epochs": "not applicable",
+    "date": "2024-03-06 22:42:40",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de TOTAL en 2021 ?",
+            "answer_valid": [
+                17141.0
+            ],
+            "answer": [
+                17141.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de TOTAL en 2020 ?",
+            "answer_valid": [
+                7161.0
+            ],
+            "answer": [
+                7161.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FDCA en 2021 ?",
+            "answer_valid": [
+                1553.0
+            ],
+            "answer": [
+                1553.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de HEC en 2017 ?",
+            "answer_valid": [
+                3007.0
+            ],
+            "answer": [
+                3007.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de SSP en 2021 ?",
+            "answer_valid": [
+                666.0
+            ],
+            "answer": [
+                666.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de SSP en 2011 ?",
+            "answer_valid": [
+                0.8368
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de SSP en 2014 ?",
+            "answer_valid": [
+                0.1827
+            ],
+            "answer": [
+                0.18
+            ],
+            "valid": true
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de SSP en 2011 ?",
+            "answer_valid": [
+                0.1632
+            ],
+            "answer": [
+                0.16
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FBM en 2017 ?",
+            "answer_valid": [
+                1993.0
+            ],
+            "answer": [
+                1993.0
+            ],
+            "valid": true
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FDCA en 2014 ?",
+            "answer_valid": [
+                772.0
+            ],
+            "answer": [
+                772.0
+            ],
+            "valid": true
+        }
+    ],
+    "accuracy": 0.9,
+    "debug": "https://platform.openai.com/playground?mode=assistant&thread=thread_hqejl6KQnTb03vHDzIKtP8ri"
+}

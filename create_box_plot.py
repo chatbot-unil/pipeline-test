@@ -29,23 +29,24 @@ def get_all_logs(path):
     for root, dirs, files in os.walk(path):
         if "finetunning" in root:
             for file in files:
+                if file != '.DS_Store':
                     with open(root + "/" + file, "r") as f:
                         data = f.read()
                         data = json.loads(data)
                         finetuning_array.append(data)
         elif "assistant" in root:
             for file in files:
-                print(root + "/" + file)
-                with open(root + "/" + file, "r") as f:
-                    data = f.read()
-                    data = json.loads(data)
-                    assistant_array.append(data)
+                if file != '.DS_Store':
+                    print(root + "/" + file)
+                    with open(root + "/" + file, "r") as f:
+                        data = f.read()
+                        data = json.loads(data)
+                        assistant_array.append(data)
 
     return finetuning_array, assistant_array
 
 def create_plot_finetuning(finetuning_array):
     data = group_data_by_pool_type(finetuning_array)
-    print(data)
     num_subplots = len(data[args.pool_type])
     fig, ax = plt.subplots(1, num_subplots,  figsize=(num_subplots * 4, 5))
     fig.suptitle('Finetuning accuracy')
@@ -66,7 +67,6 @@ def create_plot_finetuning(finetuning_array):
 
 def create_plot_assistant(assistant_array):
     data = group_data_by_pool_type(assistant_array)
-    print(data)
     num_subplots = len(data[args.pool_type])
     fig, ax = plt.subplots(1, num_subplots,  figsize=(num_subplots * 4, 5))
     fig.suptitle('Assistant accuracy')

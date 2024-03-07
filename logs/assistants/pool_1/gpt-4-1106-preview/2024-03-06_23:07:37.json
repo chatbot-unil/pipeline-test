@@ -1,0 +1,92 @@
+{
+    "model": "gpt-4-1106-preview",
+    "type": "assistants",
+    "epochs": "not applicable",
+    "date": "2024-03-06 23:05:28",
+    "nb_questions": 10,
+    "pool_type": "pool_1",
+    "questions": [
+        {
+            "question": "Combien d'étudiants internationaux il y avait à la faculté de HEC en 2020 ?",
+            "answer_valid": [
+                1241.0
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de TOTAL en 2020 ?",
+            "answer_valid": [
+                16919.0
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants féminin étaient inscrits à la faculté de FDCA en 2012 ?",
+            "answer_valid": [
+                1034.0
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de Lettres en 2013 ?",
+            "answer_valid": [
+                0.2628
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FTSR en 2012 ?",
+            "answer_valid": [
+                0.6538
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants suisses à la faculté de FBM en 2014 ?",
+            "answer_valid": [
+                0.7528
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants masculin étaient inscrits à la faculté de FDCA en 2016 ?",
+            "answer_valid": [
+                808.0
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Quelle était la proportion d'étudiants internationaux à la faculté de FBM en 2019 ?",
+            "answer_valid": [
+                0.2454
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants tous étaient inscrits à la faculté de FTSR en 2018 ?",
+            "answer_valid": [
+                103.0
+            ],
+            "answer": null,
+            "valid": false
+        },
+        {
+            "question": "Combien d'étudiants étaient inscrits à la faculté de HEC en 2012 ?",
+            "answer_valid": [
+                2587.0
+            ],
+            "answer": null,
+            "valid": false
+        }
+    ],
+    "accuracy": 0.0,
+    "debug": "https://platform.openai.com/playground?mode=assistant&thread=thread_DYIHaHAvb8rtMqoMd041WA9Z"
+}
